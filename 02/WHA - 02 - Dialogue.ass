@@ -27,7 +27,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main_1080p,,0,0,0,chapter,Prologue
 Comment: 0,0:00:58.04,0:01:00.00,GJM_Main_1080p,,0,0,0,chapter,Opening
 Comment: 0,0:02:28.00,0:02:28.16,GJM_Main_1080p,,0,0,0,chapter,Part A
-Comment: 0,0:00:16.75,0:00:19.75,GJM_Main_1080p,,0,0,0,chapter,Part B
+Comment: 0,0:16:42.00,0:16:42.13,GJM_Main_1080p,,0,0,0,chapter,Part B
 Comment: 0,0:22:04.97,0:22:05.07,GJM_Main_1080p,,0,0,0,chapter,Ending
 Comment: 0,0:23:34.98,0:23:35.17,GJM_Main_1080p,,0,0,0,chapter,Preview
 Dialogue: 0,0:00:19.75,0:00:21.02,GJM_Main_1080p,Coco,0,0,0,,The wind?
@@ -91,8 +91,8 @@ Dialogue: 0,0:05:50.70,0:05:54.61,GJM_Main_1080p,Coco,0,0,0,,I mean, yesterday w
 Dialogue: 0,0:05:55.06,0:05:57.34,GJM_Main_1080p,Coco,0,0,0,,But I'm going to live here as of today.
 Dialogue: 0,0:05:58.92,0:05:59.94,GJM_Main_1080p,Both,0,0,0,,What?
 Dialogue: 0,0:06:01.15,0:06:02.15,GJM_Main_1080p,Coco,0,0,0,,Huh?
-Dialogue: 0,0:06:02.59,0:06:05.84,GJM_Main_1080p,Tetia,0,0,0,,Wait, so you're the one who did it?
-Dialogue: 0,0:06:06.13,0:06:08.10,GJM_Main_1080p,Coco,0,0,0,,Did what?
+Dialogue: 0,0:06:02.59,0:06:05.85,GJM_Main_1080p,Tetia,0,0,0,,Wait, so you're the one who did it?
+Dialogue: 0,0:06:06.27,0:06:08.10,GJM_Main_1080p,Coco,0,0,0,,Did what?
 Dialogue: 0,0:06:15.90,0:06:17.68,GJM_Main_1080p,Tetia,0,0,0,,There's a rumor going around
 Dialogue: 0,0:06:18.95,0:06:22.48,GJM_Main_1080p,Tetia,0,0,0,,about an Outsider who used \Nforbidden magic...
 Dialogue: 0,0:06:22.48,0:06:26.08,GJM_Main_1080p,Tetia,0,0,0,,That they were allowed to become an \Napprentice with their memories intact...
@@ -107,7 +107,7 @@ Dialogue: 0,0:06:44.44,0:06:47.64,GJM_Main_1080p,Qifrey,0,0,0,,Here are your new
 Dialogue: 0,0:06:50.39,0:06:53.60,GJM_Main_1080p,Qifrey,0,0,0,,Don't be afraid. I'll explain everything.
 Dialogue: 0,0:06:56.27,0:06:57.92,GJM_Main_1080p,Qifrey,0,0,0,,Looks like it fits you perfectly.
 Dialogue: 0,0:07:00.44,0:07:04.03,GJM_Main_1080p,Qifrey,0,0,0,,Now then, let us begin \Nthe story of magic.
-Dialogue: 0,0:07:07.39,0:07:12.09,GJM_Main_1080p,Qifrey,0,0,0,,Long ago, magic wasn't something special.
+Dialogue: 0,0:07:07.52,0:07:11.79,GJM_Main_1080p,Qifrey,0,0,0,,Long ago, magic wasn't something special.
 Dialogue: 0,0:07:13.41,0:07:17.92,GJM_Main_1080p,Qifrey,0,0,0,,All you needed was a combination of \Nknown patterns and specially made ink.
 Dialogue: 0,0:07:23.69,0:07:28.33,GJM_Main_1080p,Qifrey,0,0,0,,It was a familiar tool \Nthat anyone could use.
 Dialogue: 0,0:07:30.14,0:07:34.51,GJM_Main_1080p,Qifrey,0,0,0,,However, it sparked conflict \Ntime and time again.
@@ -132,9 +132,9 @@ Dialogue: 0,0:08:34.53,0:08:36.82,GJM_Main_1080p,Qifrey,0,0,0,,Magic that was dr
 Dialogue: 0,0:08:36.82,0:08:39.32,GJM_Main_1080p,Qifrey,0,0,0,,and banned when the Day of the Pact came—
 Dialogue: 0,0:08:40.29,0:08:42.29,GJM_Main_1080p,Qifrey,0,0,0,,magic for hurting others.
 Dialogue: 0,0:08:44.80,0:08:46.79,GJM_Main_1080p,Coco,0,0,0,,Please teach me!
-Dialogue: 0,0:08:46.79,0:08:48.92,GJM_Main_1080p,Coco,0,0,0,,Teach me all about the magic \Nthat I'm not supposed to use!
-Dialogue: 0,0:08:49.18,0:08:50.22,GJM_Main_1080p,Coco,0,0,0,,I want to know!
-Dialogue: 0,0:08:51.84,0:08:55.62,GJM_Main_1080p,Coco,0,0,0,,I'll be too scared to do anything \Nif I don't know what it is.
+Dialogue: 0,0:08:46.79,0:08:48.93,GJM_Main_1080p,Coco,0,0,0,,Teach me all about the magic \Nthat I'm not supposed to use!
+Dialogue: 0,0:08:49.15,0:08:50.22,GJM_Main_1080p,Coco,0,0,0,,I want to know!
+Dialogue: 0,0:08:51.84,0:08:55.22,GJM_Main_1080p,Coco,0,0,0,,I'll be too scared to do anything \Nif I don't know what it is.
 Dialogue: 0,0:08:57.83,0:09:00.27,GJM_Main_1080p,Qifrey,0,0,0,,This is where I usually tell \Nmy students not to rush things,
 Dialogue: 0,0:09:00.71,0:09:02.73,GJM_Main_1080p,Qifrey,0,0,0,,but that's harder with you.
 Dialogue: 0,0:09:05.25,0:09:06.41,GJM_Main_1080p,Qifrey,0,0,0,,Come with me.
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:36.15,0:09:38.39,GJM_Main_1080p,Qifrey,0,0,0,,There is, however
 Dialogue: 0,0:09:39.05,0:09:41.14,GJM_Main_1080p,Coco,0,0,0,,Erasing memories?
 Dialogue: 0,0:09:41.14,0:09:42.56,GJM_Main_1080p,Qifrey,0,0,0,,Exactly.
 Dialogue: 0,0:09:44.82,0:09:47.26,GJM_Main_1080p,Qifrey,0,0,0,,Most spells are cast on tools.
-Dialogue: 0,0:09:48.73,0:09:50.83,GJM_Main_1080p,Qifrey,0,0,0,,Like carriages or lamps.
+Dialogue: 0,0:09:48.88,0:09:50.65,GJM_Main_1080p,Qifrey,0,0,0,,Like carriages or lamps.
 Dialogue: 0,0:09:58.16,0:10:01.50,GJM_Main_1080p,Qifrey,0,0,0,,Or windows like this one.
 Dialogue: 0,0:10:21.18,0:10:22.67,GJM_Main_1080p,Coco,0,0,0,,A lake?!
 Dialogue: 0,0:10:23.64,0:10:26.46,GJM_Main_1080p,Coco,0,0,0,,But we were surrounded \Nby hills just a minute ago.
@@ -221,8 +221,8 @@ Dialogue: 0,0:14:50.95,0:14:52.55,GJM_Main_1080p,Richeh,0,0,0,,I'm starving.
 Dialogue: 0,0:14:52.55,0:14:57.14,GJM_Main_1080p,Tetia,0,0,0,,Me, too! We're having \NCoco's welcome party today!
 Dialogue: 0,0:14:57.14,0:14:58.67,GJM_Main_1080p,Richeh,0,0,0,,Lots of food.
 Dialogue: 0,0:15:06.70,0:15:08.41,GJM_Main_1080p,Richeh,0,0,0,,Same as usual.
-Dialogue: 0,0:15:09.23,0:15:11.81,GJM_Main_1080p,Richeh,0,0,0,,Master, what happened \Nto the welcome party?
-Dialogue: 0,0:15:12.10,0:15:15.74,GJM_Main_1080p,Qifrey,0,0,0,,It was so last-minute. \NWe'll do it another time.
+Dialogue: 0,0:15:09.34,0:15:11.81,GJM_Main_1080p,Richeh,0,0,0,,Master, what happened \Nto the welcome party?
+Dialogue: 0,0:15:12.27,0:15:15.91,GJM_Main_1080p,Qifrey,0,0,0,,It was so last-minute. \NWe'll do it another time.
 Dialogue: 0,0:15:16.12,0:15:17.32,GJM_Main_1080p,Qifrey,0,0,0,,Where's Agott?
 Dialogue: 0,0:15:17.32,0:15:19.13,GJM_Main_1080p,Tetia,0,0,0,,She said she's eating in her room.
 Dialogue: 0,0:15:19.78,0:15:23.20,GJM_Main_1080p,Qifrey,0,0,0,,She should join us once in a while.
@@ -247,7 +247,7 @@ Dialogue: 0,0:17:01.85,0:17:05.38,GJM_Main_1080p,Qifrey,0,0,0,,You'll learn more
 Dialogue: 0,0:17:05.83,0:17:07.01,GJM_Main_1080p,Coco,0,0,0,,What are these?
 Dialogue: 0,0:17:07.33,0:17:10.65,GJM_Main_1080p,Qifrey,0,0,0,,Your Components—\Ntools used to draw magic.
 Dialogue: 0,0:17:11.76,0:17:13.76,GJM_Main_1080p,Coco,0,0,0,,Wow!
-Dialogue: 0,0:17:14.02,0:17:16.60,GJM_Main_1080p,Coco,0,0,0,,They look so cool!
+Dialogue: 0,0:17:13.99,0:17:16.60,GJM_Main_1080p,Coco,0,0,0,,They look so cool!
 Dialogue: 0,0:17:18.61,0:17:21.39,GJM_Main_1080p,Coco,0,0,0,,The Ink Wand. A pen.
 Dialogue: 0,0:17:22.45,0:17:25.65,GJM_Main_1080p,Coco,0,0,0,,I still feel a bit scared \Ntouching this. But...
 Dialogue: 0,0:17:26.34,0:17:29.50,GJM_Main_1080p,Coco,0,0,0,,{\i1}Mom, I'm going to save you \Nno matter what it takes!
@@ -282,10 +282,10 @@ Dialogue: 0,0:19:11.43,0:19:15.46,GJM_Main_1080p,Coco,0,0,0,,It's sloppy, and th
 Dialogue: 0,0:19:15.84,0:19:19.08,GJM_Main_1080p,Qifrey,0,0,0,,Of course it is. You're just learning.
 Dialogue: 0,0:19:19.08,0:19:22.35,GJM_Main_1080p,Qifrey,0,0,0,,But there's something else you \Nshould pay attention to.
 Dialogue: 0,0:19:22.75,0:19:25.73,GJM_Main_1080p,Qifrey,0,0,0,,Look right here. \NSee how your ring is not connected?
-Dialogue: 0,0:19:25.98,0:19:28.77,GJM_Main_1080p,Qifrey,0,0,0,,A spell won't activate \Nunless it's a complete circle.
-Dialogue: 0,0:19:32.23,0:19:35.76,GJM_Main_1080p,Qifrey,0,0,0,,It's natural to have unsteady hands when \Nyou're learning to use a new tool.
-Dialogue: 0,0:19:35.76,0:19:38.62,GJM_Main_1080p,Qifrey,0,0,0,,You're like a newborn \Nfoal just learning to stand.
-Dialogue: 0,0:19:38.90,0:19:42.53,GJM_Main_1080p,Qifrey,0,0,0,,You'll get used to it and be \Nrunning around freely in no time.
+Dialogue: 0,0:19:25.96,0:19:28.77,GJM_Main_1080p,Qifrey,0,0,0,,A spell won't activate \Nunless it's a complete circle.
+Dialogue: 0,0:19:32.23,0:19:35.92,GJM_Main_1080p,Qifrey,0,0,0,,It's natural to have unsteady hands when \Nyou're learning to use a new tool.
+Dialogue: 0,0:19:35.92,0:19:38.62,GJM_Main_1080p,Qifrey,0,0,0,,You're like a newborn \Nfoal just learning to stand.
+Dialogue: 0,0:19:38.87,0:19:42.53,GJM_Main_1080p,Qifrey,0,0,0,,You'll get used to it and be \Nrunning around freely in no time.
 Dialogue: 0,0:19:44.37,0:19:47.89,GJM_Main_1080p,Qifrey,0,0,0,,Now, connect the lines \Nand activate the spell.
 Dialogue: 0,0:20:02.57,0:20:05.23,GJM_Main_1080p,Coco,0,0,0,,I-I'm sorry! Very sorry! \NIt was an accident!
 Dialogue: 0,0:20:08.23,0:20:11.23,GJM_Main_1080p,Coco,0,0,0,,Sorry! I'll dry it! I'll dry it off!
@@ -294,7 +294,7 @@ Dialogue: 0,0:20:12.52,0:20:13.71,GJM_Main_1080p,Coco,0,0,0,,{\an8}Has it dried?
 Dialogue: 0,0:20:14.34,0:20:16.38,GJM_Main_1080p,Qifrey,0,0,0,,Sorry, Agott. Are you okay?
 Dialogue: 0,0:20:15.83,0:20:16.99,GJM_Main_1080p,Coco,0,0,0,,{\an8}Not yet?!
 Dialogue: 0,0:20:18.45,0:20:22.87,GJM_Main_1080p,Agott,0,0,0,,It's fine, Master. \NI'm not bothered by it at all.
-Dialogue: 0,0:20:23.14,0:20:26.44,GJM_Main_1080p,Agott,0,0,0,,But may I see the Casting Seal she drew?
+Dialogue: 0,0:20:23.11,0:20:26.44,GJM_Main_1080p,Agott,0,0,0,,But may I see the Casting Seal she drew?
 Dialogue: 0,0:20:26.44,0:20:28.37,GJM_Main_1080p,Qifrey,0,0,0,,Huh? Sure.
 Dialogue: 0,0:20:29.42,0:20:31.63,GJM_Main_1080p,Agott,0,0,0,,Ah, I found the problem.
 Dialogue: 0,0:20:36.12,0:20:37.01,GJM_Main_1080p,Agott,0,0,0,,Look.
