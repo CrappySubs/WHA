@@ -1,0 +1,28 @@
+
+# By default, ignore _all_ files, but not directories
+*
+!*/
+
+.ruff_cache/
+_binaries/
+_workdir/
+The.Summer.Hikaru.Died.S01.1080p.JPN.Blu-ray.AVC.LPCM.2.0-NAN0/
+
+# Git
+!.git-blame-ignore-revs
+!.gitattributes
+!.gitignore
+
+# Fonts
+!*.ttf
+!*.otf
+!*.ttc
+
+# Scripts
+!scripts/*
+!mux.py
+
+# Misc
+!README.md
+!*.vpy
+!config.ini
