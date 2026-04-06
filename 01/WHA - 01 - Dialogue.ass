@@ -29,77 +29,77 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main_1080p,,0,0,0,chapter,Part A
 Comment: 0,0:12:56.99,0:13:02.00,GJM_Main_1080p,,0,0,0,chapter,Part B
 Comment: 0,0:23:35.00,0:23:40.00,GJM_Main_1080p,,0,0,0,chapter,Preview
-Dialogue: 0,0:00:05.65,0:00:09.16,GJM_Main_1080p,Coco,0,0,0,,Is an athlete an athlete \Nfrom the day they are born?
-Dialogue: 0,0:00:09.95,0:00:12.69,GJM_Main_1080p,Coco,0,0,0,,What about an astronaut or an idol?
-Dialogue: 0,0:00:14.14,0:00:16.25,GJM_Main_1080p,Coco,0,0,0,,You can't know what you'll be at birth.
-Dialogue: 0,0:00:17.38,0:00:20.38,GJM_Main_1080p,Coco,0,0,0,,Then... what about witches?
-Dialogue: 0,0:01:20.87,0:01:23.85,GJM_Main_1080p,Coco,0,0,0,,Oh. Sorry for the mess.
-Dialogue: 0,0:01:23.85,0:01:25.68,GJM_Main_1080p,Coco,0,0,0,,I'm just about finished with my laundry.
-Dialogue: 0,0:01:29.17,0:01:30.88,GJM_Main_1080p,Coco,0,0,0,,It'll go back to normal soon.
-Dialogue: 0,0:01:31.33,0:01:34.31,GJM_Main_1080p,Coco,0,0,0,,This spring is touched by magic!
-Dialogue: 0,0:01:58.49,0:02:00.87,GJM_Main_1080p,Coco,0,0,0,,It's beautiful every time I see it.
-Dialogue: 0,0:02:00.87,0:02:03.63,GJM_Main_1080p,Coco,0,0,0,,Magic is so amazing!
-Dialogue: 0,0:02:07.00,0:02:12.93,GJM_Main_1080p,Coco,0,0,0,,{\i1}The world brims with magic, \Nan essential and handy miracle.
-Dialogue: 0,0:02:14.97,0:02:17.54,GJM_Main_1080p,Coco,0,0,0,,{\an8}{\i1}But how it works is unknown.
-Dialogue: 0,0:02:18.78,0:02:22.41,GJM_Main_1080p,Coco,0,0,0,,{\an8}{\i1}Witches are the only ones\Nwho can cast spells,
-Dialogue: 0,0:02:23.98,0:02:28.14,GJM_Main_1080p,Coco,0,0,0,,{\i1}and ordinary people can \Nonly be blessed with it.
-Dialogue: 0,0:02:29.25,0:02:31.51,GJM_Main_1080p,Coco,0,0,0,,{\i1}Not everyone can become a witch.
-Dialogue: 0,0:02:34.51,0:02:38.23,GJM_Main_1080p,Coco,0,0,0,,Must be nice being born a witch.
-Dialogue: 0,0:02:45.53,0:02:47.42,GJM_Main_1080p,Coco,0,0,0,,O sheets, O sheets...
-Dialogue: 0,0:02:47.42,0:02:50.75,GJM_Main_1080p,Coco,0,0,0,,I command you to turn \Ninto a flying cloak!
-Dialogue: 0,0:02:55.65,0:02:56.73,GJM_Main_1080p,Coco,0,0,0,,Oh! Wait!
-Dialogue: 0,0:02:56.73,0:02:59.16,GJM_Main_1080p,Coco,0,0,0,,That's not what I meant by "flying"!
-Dialogue: 0,0:03:15.90,0:03:17.26,GJM_Main_1080p,Coco,0,0,0,,It's a Pegasus Carriage!
-Dialogue: 0,0:03:31.06,0:03:33.57,GJM_Main_1080p,Coco,0,0,0,,I've never seen one land before!
-Dialogue: 0,0:03:35.91,0:03:39.35,GJM_Main_1080p,Coco,0,0,0,,Mom! There's a Pegasus Carriage outside!
-Dialogue: 0,0:03:40.32,0:03:41.83,GJM_Main_1080p,Coco,0,0,0,,Mom!
-Dialogue: 0,0:03:43.17,0:03:45.30,GJM_Main_1080p,Coco,0,0,0,,Mom!
+Dialogue: 0,0:00:05.76,0:00:09.27,GJM_Main_1080p,Coco,0,0,0,,Is an athlete an athlete \Nfrom the day they are born?
+Dialogue: 0,0:00:10.15,0:00:12.76,GJM_Main_1080p,Coco,0,0,0,,What about an astronaut or an idol?
+Dialogue: 0,0:00:14.25,0:00:16.27,GJM_Main_1080p,Coco,0,0,0,,You can't know what you'll be at birth.
+Dialogue: 0,0:00:17.52,0:00:20.73,GJM_Main_1080p,Coco,0,0,0,,Then... what about witches?
+Dialogue: 0,0:01:20.94,0:01:23.97,GJM_Main_1080p,Coco,0,0,0,,Oh. Sorry for the mess.
+Dialogue: 0,0:01:23.97,0:01:25.86,GJM_Main_1080p,Coco,0,0,0,,I'm just about finished with my laundry.
+Dialogue: 0,0:01:29.25,0:01:31.32,GJM_Main_1080p,Coco,0,0,0,,It'll go back to normal soon.
+Dialogue: 0,0:01:31.32,0:01:34.43,GJM_Main_1080p,Coco,0,0,0,,This spring is touched by magic!
+Dialogue: 0,0:01:58.59,0:02:00.90,GJM_Main_1080p,Coco,0,0,0,,It's beautiful every time I see it.
+Dialogue: 0,0:02:00.90,0:02:03.78,GJM_Main_1080p,Coco,0,0,0,,Magic is so amazing!
+Dialogue: 0,0:02:07.27,0:02:12.52,GJM_Main_1080p,Coco,0,0,0,,{\i1}The world brims with magic, \Nan essential and handy miracle.
+Dialogue: 0,0:02:15.12,0:02:17.64,GJM_Main_1080p,Coco,0,0,0,,{\an8}{\i1}But how it works is unknown.
+Dialogue: 0,0:02:18.66,0:02:22.41,GJM_Main_1080p,Coco,0,0,0,,{\an8}{\i1}Witches are the only ones\Nwho can cast spells,
+Dialogue: 0,0:02:24.04,0:02:28.18,GJM_Main_1080p,Coco,0,0,0,,{\i1}and ordinary people can \Nonly be blessed with it.
+Dialogue: 0,0:02:29.36,0:02:31.58,GJM_Main_1080p,Coco,0,0,0,,{\i1}Not everyone can become a witch.
+Dialogue: 0,0:02:34.61,0:02:37.93,GJM_Main_1080p,Coco,0,0,0,,Must be nice being born a witch. 
+Dialogue: 0,0:02:45.71,0:02:47.46,GJM_Main_1080p,Coco,0,0,0,,O sheets, O sheets...
+Dialogue: 0,0:02:47.46,0:02:50.81,GJM_Main_1080p,Coco,0,0,0,,I command you to turn \Ninto a flying cloak!
+Dialogue: 0,0:02:55.66,0:02:56.69,GJM_Main_1080p,Coco,0,0,0,,Oh! Wait!  
+Dialogue: 0,0:02:56.69,0:02:59.33,GJM_Main_1080p,Coco,0,0,0,,That's not what I meant by "flying"!
+Dialogue: 0,0:03:16.09,0:03:17.26,GJM_Main_1080p,Coco,0,0,0,,It's a pegasus carriage!
+Dialogue: 0,0:03:31.17,0:03:33.57,GJM_Main_1080p,Coco,0,0,0,,I've never seen one land before!
+Dialogue: 0,0:03:35.97,0:03:39.47,GJM_Main_1080p,Coco,0,0,0,,Mom! There's a pegasus carriage outside!
+Dialogue: 0,0:03:40.25,0:03:41.83,GJM_Main_1080p,Coco,0,0,0,,Mom!
+Dialogue: 0,0:03:43.47,0:03:45.42,GJM_Main_1080p,Coco,0,0,0,,Mom!
 Dialogue: 0,0:03:52.59,0:03:54.84,GJM_Main_1080p,Coco,0,0,0,,I'm sorry! I didn't know you were there.
-Dialogue: 0,0:03:55.17,0:03:58.68,GJM_Main_1080p,Qifrey,0,0,0,,It's okay. It's on me \Nfor standing by the door.
-Dialogue: 0,0:03:58.68,0:04:00.65,GJM_Main_1080p,Customer C,0,0,0,,Oh, my. I can't believe it!
-Dialogue: 0,0:04:00.65,0:04:03.59,GJM_Main_1080p,Customer C,0,0,0,,Look! Who'd have thought this place \Nwould have something like this?
-Dialogue: 0,0:04:03.59,0:04:07.16,GJM_Main_1080p,Customer B,0,0,0,,Oh, but isn't wood-sorrel \Nembroidery a bit dated?
-Dialogue: 0,0:04:07.16,0:04:10.45,GJM_Main_1080p,Customer A,0,0,0,,You won't believe what I found! \NThis is Harrian lace.
-Dialogue: 0,0:04:10.45,0:04:14.37,GJM_Main_1080p,Customer C,0,0,0,,Oh, amazing! It sold out \Nin no time in the castle town.
-Dialogue: 0,0:04:14.37,0:04:17.94,GJM_Main_1080p,Customer A,0,0,0,,{\an8}We were right to travel \Nall this way by Pegasus Carriage.
-Dialogue: 0,0:04:15.35,0:04:18.75,GJM_Main_1080p,Coco,0,0,0,,They're the people who came \Nin the Pegasus Carriage!
-Dialogue: 0,0:04:20.31,0:04:22.12,GJM_Main_1080p,Qifrey,0,0,0,,Oh, no. I'm not with them.
-Dialogue: 0,0:04:22.43,0:04:25.72,GJM_Main_1080p,Customer C,0,0,0,,Excuse me. Do you have \Nany more lace like this?
-Dialogue: 0,0:04:25.72,0:04:27.46,GJM_Main_1080p,Coco's mom,0,0,0,,Yes, certainly!
-Dialogue: 0,0:04:27.46,0:04:29.45,GJM_Main_1080p,Customer B,0,0,0,,{\an8}Look, this one's so cute, too!
-Dialogue: 0,0:04:28.44,0:04:30.54,GJM_Main_1080p,Coco's mom,0,0,0,,Coco, don't just stand there. \NHelp out!
-Dialogue: 0,0:04:30.54,0:04:31.69,GJM_Main_1080p,Customer C,0,0,0,,{\an8}How about this one?
-Dialogue: 0,0:04:32.25,0:04:34.00,GJM_Main_1080p,Coco's mom,0,0,0,,Sir, what can we help you with?
-Dialogue: 0,0:04:34.00,0:04:36.15,GJM_Main_1080p,Qifrey,0,0,0,,I'm looking for some smoke-colored fabric.
-Dialogue: 0,0:04:36.15,0:04:37.80,GJM_Main_1080p,Qifrey,0,0,0,,But I can come back later if you're busy.
-Dialogue: 0,0:04:37.80,0:04:39.72,GJM_Main_1080p,Coco,0,0,0,,I can take care of the cutting for you.
-Dialogue: 0,0:04:39.72,0:04:40.72,GJM_Main_1080p,Qifrey,0,0,0,,You can?
-Dialogue: 0,0:04:40.72,0:04:42.65,GJM_Main_1080p,Coco's mom,0,0,0,,She's got a good handle on it.
-Dialogue: 0,0:04:42.01,0:04:43.55,GJM_Main_1080p,Customer B,0,0,0,,{\an8}It's lovely!
-Dialogue: 0,0:04:42.65,0:04:44.14,GJM_Main_1080p,Qifrey,0,0,0,,Wow.
-Dialogue: 0,0:04:47.25,0:04:49.85,GJM_Main_1080p,Coco,0,0,0,,Can I go see the Pegasus \NCarriage after I'm done?
-Dialogue: 0,0:04:49.85,0:04:51.17,GJM_Main_1080p,Coco's mom,0,0,0,,Say what?
-Dialogue: 0,0:04:51.17,0:04:52.69,GJM_Main_1080p,Coco,0,0,0,,There's a Pegasus Carriage outside!
-Dialogue: 0,0:04:53.19,0:04:54.52,GJM_Main_1080p,Coco's mom,0,0,0,,A Pegasus Carriage?
-Dialogue: 0,0:04:54.52,0:04:57.55,GJM_Main_1080p,Coco's mom,0,0,0,,You'd better not be thinking of \Nmessing with the customers' things.
-Dialogue: 0,0:04:57.55,0:04:59.40,GJM_Main_1080p,Coco,0,0,0,,Don't worry. I'm just gonna look!
-Dialogue: 0,0:05:01.65,0:05:05.33,GJM_Main_1080p,Coco,0,0,0,,I won't say I want to be a witch anymore.
-Dialogue: 0,0:05:09.53,0:05:11.87,GJM_Main_1080p,Coco's mom,0,0,0,,If you finish up early, sure.
-Dialogue: 0,0:05:11.87,0:05:13.54,GJM_Main_1080p,Coco,0,0,0,,Yes!
-Dialogue: 0,0:05:14.46,0:05:17.08,GJM_Main_1080p,Coco,0,0,0,,Thank you for waiting. \NWhat are the measurements?
-Dialogue: 0,0:05:17.08,0:05:18.40,GJM_Main_1080p,Qifrey,0,0,0,,Oh, I wrote it down.
-Dialogue: 0,0:05:18.40,0:05:20.05,GJM_Main_1080p,Coco,0,0,0,,Thank you.
-Dialogue: 0,0:05:59.82,0:06:00.92,GJM_Main_1080p,Qifrey,0,0,0,,Wow.
-Dialogue: 0,0:06:02.33,0:06:05.80,GJM_Main_1080p,Qifrey,0,0,0,,You've got great concentration. \NAnd you've got steady hands.
-Dialogue: 0,0:06:05.80,0:06:08.93,GJM_Main_1080p,Qifrey,0,0,0,,No hesitation in the line, clean cut...
-Dialogue: 0,0:06:08.93,0:06:11.69,GJM_Main_1080p,Qifrey,0,0,0,,and such a careful, precise finish.
-Dialogue: 0,0:06:12.35,0:06:15.49,GJM_Main_1080p,Qifrey,0,0,0,,I had no idea this village had \Nsuch a skilled craftsman.
-Dialogue: 0,0:06:17.09,0:06:18.57,GJM_Main_1080p,Qifrey,0,0,0,,This is real magic.
-Dialogue: 0,0:06:19.94,0:06:24.45,GJM_Main_1080p,Coco,0,0,0,,N-N-N-N-N-N-N-No! \NIt's nothing like that at all!
-Dialogue: 0,0:06:24.45,0:06:27.28,GJM_Main_1080p,Coco,0,0,0,,Magic is way more mysterious and sparkly!
-Dialogue: 0,0:06:27.28,0:06:29.45,GJM_Main_1080p,Coco,0,0,0,,It's valuable and really pretty.
-Dialogue: 0,0:06:29.45,0:06:32.60,GJM_Main_1080p,Coco,0,0,0,,And it's something that's more... more...
-Dialogue: 0,0:06:33.02,0:06:36.58,GJM_Main_1080p,Coco,0,0,0,,Something truly p-precious.
+Dialogue: 0,0:03:55.35,0:03:58.78,GJM_Main_1080p,Qifrey,0,0,0,,It's okay. It's on me \Nfor standing by the door.
+Dialogue: 0,0:03:58.78,0:04:00.75,GJM_Main_1080p,Customer C,0,0,0,,Oh, my. I can't believe it!
+Dialogue: 0,0:04:00.75,0:04:03.72,GJM_Main_1080p,Customer C,0,0,0,,Look! Who'd have thought this place \Nwould have something like this?
+Dialogue: 0,0:04:03.72,0:04:07.15,GJM_Main_1080p,Customer B,0,0,0,,Oh, but isn't wood-sorrel \Nembroidery a bit dated?
+Dialogue: 0,0:04:07.15,0:04:10.52,GJM_Main_1080p,Customer A,0,0,0,,You won't believe what I found! \NThis is Harrian lace.
+Dialogue: 0,0:04:10.52,0:04:14.24,GJM_Main_1080p,Customer C,0,0,0,,Oh, amazing! It sold out \Nin no time in the castle town.
+Dialogue: 0,0:04:14.24,0:04:17.94,GJM_Main_1080p,Customer A,0,0,0,,{\an8}We were right to travel \Nall this way by pegasus carriage.
+Dialogue: 0,0:04:15.59,0:04:18.75,GJM_Main_1080p,Coco,0,0,0,,They're the people who came \Nin the pegasus carriage!
+Dialogue: 0,0:04:20.46,0:04:22.12,GJM_Main_1080p,Qifrey,0,0,0,,Oh, no. I'm not with them.
+Dialogue: 0,0:04:22.74,0:04:25.72,GJM_Main_1080p,Customer C,0,0,0,,Excuse me. Do you have \Nany more lace like this?
+Dialogue: 0,0:04:25.89,0:04:27.45,GJM_Main_1080p,Coco's mom,0,0,0,,Yes, certainly!
+Dialogue: 0,0:04:27.45,0:04:29.87,GJM_Main_1080p,Customer B,0,0,0,,{\an8}Look, this one's so cute, too!
+Dialogue: 0,0:04:28.56,0:04:30.94,GJM_Main_1080p,Coco's mom,0,0,0,,Coco, don't just stand there. \NHelp out!
+Dialogue: 0,0:04:30.61,0:04:31.56,GJM_Main_1080p,Customer C,0,0,0,,{\an8}How about this one?
+Dialogue: 0,0:04:32.25,0:04:34.08,GJM_Main_1080p,Coco's mom,0,0,0,,Sir, what can we help you with?
+Dialogue: 0,0:04:34.08,0:04:36.27,GJM_Main_1080p,Qifrey,0,0,0,,I'm looking for some smoke-colored fabric.
+Dialogue: 0,0:04:36.27,0:04:37.84,GJM_Main_1080p,Qifrey,0,0,0,,But I can come back later if you're busy.
+Dialogue: 0,0:04:37.84,0:04:39.82,GJM_Main_1080p,Coco,0,0,0,,I can take care of the cutting for you.
+Dialogue: 0,0:04:39.94,0:04:40.28,GJM_Main_1080p,Qifrey,0,0,0,,You can?
+Dialogue: 0,0:04:40.80,0:04:42.34,GJM_Main_1080p,Coco's mom,0,0,0,,She's got a good handle on it.
+Dialogue: 0,0:04:42.34,0:04:44.14,GJM_Main_1080p,Customer B,0,0,0,,{\an8}It's lovely!
+Dialogue: 0,0:04:42.79,0:04:44.14,GJM_Main_1080p,Qifrey,0,0,0,,Wow.
+Dialogue: 0,0:04:47.13,0:04:49.89,GJM_Main_1080p,Coco,0,0,0,,Can I go see the \Npegasus carriage after I'm done?
+Dialogue: 0,0:04:49.89,0:04:51.16,GJM_Main_1080p,Coco's mom,0,0,0,,Say what? 
+Dialogue: 0,0:04:51.16,0:04:52.69,GJM_Main_1080p,Coco,0,0,0,,There's a pegasus carriage outside!
+Dialogue: 0,0:04:53.33,0:04:54.52,GJM_Main_1080p,Coco's mom,0,0,0,,A pegasus carriage?
+Dialogue: 0,0:04:54.52,0:04:57.48,GJM_Main_1080p,Coco's mom,0,0,0,,You'd better not be thinking of \Nmessing with the customers' things.
+Dialogue: 0,0:04:57.48,0:04:59.40,GJM_Main_1080p,Coco,0,0,0,,Don't worry. I'm just gonna look!
+Dialogue: 0,0:05:01.72,0:05:05.50,GJM_Main_1080p,Coco,0,0,0,,I won't say I want to be a witch anymore.
+Dialogue: 0,0:05:09.60,0:05:11.75,GJM_Main_1080p,Coco's mom,0,0,0,,If you finish up early, sure.
+Dialogue: 0,0:05:11.75,0:05:13.54,GJM_Main_1080p,Coco,0,0,0,,Yes!
+Dialogue: 0,0:05:14.74,0:05:17.19,GJM_Main_1080p,Coco,0,0,0,,Thank you for waiting. \NWhat are the measurements?
+Dialogue: 0,0:05:17.19,0:05:18.25,GJM_Main_1080p,Qifrey,0,0,0,,Oh, I wrote it down. 
+Dialogue: 0,0:05:18.25,0:05:20.05,GJM_Main_1080p,Coco,0,0,0,,Thank you.
+Dialogue: 0,0:05:59.96,0:06:00.92,GJM_Main_1080p,Qifrey,0,0,0,,Wow.
+Dialogue: 0,0:06:02.45,0:06:05.80,GJM_Main_1080p,Qifrey,0,0,0,,You've got great concentration, steady hands...
+Dialogue: 0,0:06:06.10,0:06:08.93,GJM_Main_1080p,Qifrey,0,0,0,,No hesitation in the line, clean cut...
+Dialogue: 0,0:06:08.93,0:06:11.86,GJM_Main_1080p,Qifrey,0,0,0,,And such a careful, precise finish.
+Dialogue: 0,0:06:12.50,0:06:15.54,GJM_Main_1080p,Qifrey,0,0,0,,I had no idea this village had \Nsuch a skilled craftsperson. {A wheel was spun to decide if we make my bisexual(?) icon woke or not. Hopefully you can guess the result.}
+Dialogue: 0,0:06:17.25,0:06:18.57,GJM_Main_1080p,Qifrey,0,0,0,,This is real magic.
+Dialogue: 0,0:06:19.94,0:06:24.47,GJM_Main_1080p,Coco,0,0,0,,N-N-N-N-N-N-N-No! \NIt's nothing like that at all!
+Dialogue: 0,0:06:24.47,0:06:27.13,GJM_Main_1080p,Coco,0,0,0,,Magic is way more mysterious and sparkly!
+Dialogue: 0,0:06:27.13,0:06:29.45,GJM_Main_1080p,Coco,0,0,0,,It's valuable and really pretty.
+Dialogue: 0,0:06:29.85,0:06:31.83,GJM_Main_1080p,Coco,0,0,0,,And it's something that's more... more...
+Dialogue: 0,0:06:31.83,0:06:36.58,GJM_Main_1080p,Coco,0,0,0,,Something truly p-precious.
 Dialogue: 0,0:06:37.05,0:06:39.31,GJM_Main_1080p,Coco,0,0,0,,What am I saying?
 Dialogue: 0,0:06:39.81,0:06:42.13,GJM_Main_1080p,Qifrey,0,0,0,,You really like magic, don't you?
 Dialogue: 0,0:06:44.52,0:06:46.64,GJM_Main_1080p,Qifrey,0,0,0,,Mind if I ask why you like it so much?
@@ -110,7 +110,7 @@ Dialogue: 0,0:07:21.05,0:07:23.72,GJM_Main_1080p,Witch,0,0,0,,Would you like to 
 Dialogue: 0,0:07:26.32,0:07:27.76,GJM_Main_1080p,Coco,0,0,0,,Magic?
 Dialogue: 0,0:07:27.76,0:07:31.56,GJM_Main_1080p,Coco,0,0,0,,I love picture books, but what's magic?
 Dialogue: 0,0:07:31.91,0:07:36.07,GJM_Main_1080p,Witch,0,0,0,,Magic is a miracle \Nthat makes this world vibrant.
-Dialogue: 0,0:07:37.62,0:07:40.11,GJM_Main_1080p,Witch,0,0,0,,A Pegasus Carriage \Nthat soars through the vast sky,
+Dialogue: 0,0:07:37.62,0:07:40.11,GJM_Main_1080p,Witch,0,0,0,,A pegasus carriage \Nthat soars through the vast sky,
 Dialogue: 0,0:07:40.11,0:07:43.15,GJM_Main_1080p,Witch,0,0,0,,an everlasting spring \Nthat preserves crystal-clear waters...
 Dialogue: 0,0:07:43.15,0:07:46.85,GJM_Main_1080p,Witch,0,0,0,,Even the cobblestones beneath your feet
 Dialogue: 0,0:07:46.85,0:07:50.82,GJM_Main_1080p,Witch,0,0,0,,lighting up as you walk—it's all magic.
@@ -153,7 +153,7 @@ Dialogue: 0,0:09:54.24,0:09:57.38,GJM_Main_1080p,Kamla,0,0,0,,Liar! You crawled 
 Dialogue: 0,0:09:57.38,0:09:58.79,GJM_Main_1080p,Tanerl,0,0,0,,You snitch!
 Dialogue: 0,0:09:58.79,0:10:01.37,GJM_Main_1080p,Kamla,0,0,0,,He hit his head, and it fell over.
 Dialogue: 0,0:10:01.37,0:10:03.50,GJM_Main_1080p,Customer A,0,0,0,,Oh, my! How awful!
-Dialogue: 0,0:10:04.06,0:10:06.04,GJM_Main_1080p,Customer A,0,0,0,,Look what you've done \Nto our Pegasus Carriage!
+Dialogue: 0,0:10:04.06,0:10:06.04,GJM_Main_1080p,Customer A,0,0,0,,Look what you've done \Nto our pegasus carriage!
 Dialogue: 0,0:10:06.04,0:10:08.30,GJM_Main_1080p,Customer B,0,0,0,,It was our father's.
 Dialogue: 0,0:10:08.30,0:10:12.05,GJM_Main_1080p,Coco's mom,0,0,0,,I'm terribly sorry for the awful \Ntrouble they've caused you!
 Dialogue: 0,0:10:12.29,0:10:14.27,GJM_Main_1080p,Customer B,0,0,0,,A-Apologizing won't change anything.
@@ -218,7 +218,7 @@ Dialogue: 0,0:14:32.35,0:14:33.61,GJM_Main_1080p,Coco,0,0,0,,Thank you for your 
 Dialogue: 0,0:14:33.61,0:14:34.62,GJM_Main_1080p,Qifrey,0,0,0,,Uh-huh...
 Dialogue: 0,0:14:52.11,0:14:54.78,GJM_Main_1080p,Coco's mom,0,0,0,,I'm a bit relieved, you know.
 Dialogue: 0,0:14:55.54,0:14:57.95,GJM_Main_1080p,Coco's mom,0,0,0,,You love magic so much,
-Dialogue: 0,0:14:58.47,0:15:04.73,GJM_Main_1080p,Coco's mom,0,0,0,,so I thought you'd say you \Nwanted to go with that witch.
+Dialogue: 0,0:14:58.47,0:15:04.88,GJM_Main_1080p,Coco's mom,0,0,0,,so I thought you'd say you \Nwanted to go with that witch.
 Dialogue: 0,0:15:06.16,0:15:08.55,GJM_Main_1080p,Coco's mom,0,0,0,,I lost your father to illness.
 Dialogue: 0,0:15:08.87,0:15:13.06,GJM_Main_1080p,Coco's mom,0,0,0,,So if you left me too, I'd...
 Dialogue: 0,0:15:13.06,0:15:16.94,GJM_Main_1080p,Coco,0,0,0,,I won't! I won't leave you \Nby yourself, Mom!
