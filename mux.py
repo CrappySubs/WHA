@@ -25,11 +25,12 @@ def make_mux(x):
         f"./{setup.episode}/WHA - {setup.episode} - Dubtitles.srt"
     ).merge(ts)
 
-    japanese = SubFile(f"./{setup.episode}/WHA - {setup.episode} - Japanese.ass")
+    #japanese = SubFile(f"./{setup.episode}/WHA - {setup.episode} - Japanese.ass")
 
     chapters = Chapters.from_sub(full)
 
-    full, dubtitles, ts, japanese = [
+    #full, dubtitles, ts, japanese = [
+    full, dubtitles, ts = [
         x.set_headers(
             (ASSHeader.PlayResX, 1920),
             (ASSHeader.PlayResY, 1080),
@@ -41,12 +42,13 @@ def make_mux(x):
         )
         .clean_styles()
         .clean_garbage()
-        for x in (full, dubtitles, ts, japanese)
+        #for x in (full, dubtitles, ts, japanese)
+        for x in (full, dubtitles, ts)
     ]
 
     fonts = full.collect_fonts(use_system_fonts=True)
 
-    jp_fonts = japanese.collect_fonts(use_system_fonts=False)
+    #jp_fonts = japanese.collect_fonts(use_system_fonts=False)
 
     mux(
         premux,
@@ -55,12 +57,12 @@ def make_mux(x):
         ts.to_track(
             name="Signs & Songs [Chika]", lang="en", default=False, forced=True
         ),
-        japanese.to_track(
-            name="Japanese Subtitles [SonicMaster]", lang="jpn", default=False
-        ),
+        #japanese.to_track(
+        #    name="Japanese Subtitles [SonicMaster]", lang="jpn", default=False
+        #),
         chapters,
         *fonts,
-        *jp_fonts,
+        #*jp_fonts,
     )
 
 
