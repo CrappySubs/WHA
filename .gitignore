@@ -19,6 +19,7 @@ _workdir/
 
 # Subs
 !*.ass
+!*.srt
 
 # Scripts
 !scripts/*
