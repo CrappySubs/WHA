@@ -1,0 +1,260 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 640
+LayoutResY: 360
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Flashback,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Flashback_Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Main - Top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.67,0:00:33.58,GJM_Main_1080p,Alaira,0,0,0,,What's the point of having a stairway \Nwhen no one ever uses it?
+Dialogue: 0,0:00:33.58,0:00:37.52,GJM_Main_1080p,Alaira,0,0,0,,It's been a long time since you \Nlast came here to the seabed,
+Dialogue: 0,0:00:37.52,0:00:40.04,GJM_Main_1080p,Alaira,0,0,0,,problem child of the Great Hall.
+Dialogue: 0,0:00:40.51,0:00:43.36,GJM_Main_1080p,Qifrey,0,0,0,,That was a long time ago, Alaira.
+Dialogue: 0,0:00:43.36,0:00:45.44,GJM_Main_1080p,Alaira,0,0,0,,I wonder about that.
+Dialogue: 0,0:00:45.44,0:00:48.49,GJM_Main_1080p,Alaira,0,0,0,,It sounds like you've been \Nstirring up trouble again.
+Dialogue: 0,0:00:49.48,0:00:52.54,GJM_Main_1080p,Alaira,0,0,0,,I heard about your new apprentice.
+Dialogue: 0,0:00:52.54,0:00:56.21,GJM_Main_1080p,Qifrey,0,0,0,,Already? Word travels fast.
+Dialogue: 0,0:00:56.21,0:00:58.62,GJM_Main_1080p,Alaira,0,0,0,,She might have the connection \Nyou're looking for, right?
+Dialogue: 0,0:00:58.94,0:01:01.12,GJM_Main_1080p,Alaira,0,0,0,,To the Brimmed Caps.
+Dialogue: 0,0:01:03.13,0:01:05.90,GJM_Main_1080p,Alaira,0,0,0,,No one's used forbidden \Nmagic in four years.
+Dialogue: 0,0:01:05.90,0:01:07.60,GJM_Main_1080p,Alaira,0,0,0,,She's an important lead.
+Dialogue: 0,0:01:08.39,0:01:10.17,GJM_Main_1080p,Qifrey,0,0,0,,It's not about that.
+Dialogue: 0,0:01:12.01,0:01:15.33,GJM_Main_1080p,Qifrey,0,0,0,,And she hasn't taken her tests, \Nso she's not my official apprentice yet.
+Dialogue: 0,0:01:15.33,0:01:17.26,GJM_Main_1080p,Alaira,0,0,0,,Oh, she hasn't?
+Dialogue: 0,0:01:17.26,0:01:18.87,GJM_Main_1080p,Qifrey,0,0,0,,It's too soon.
+Dialogue: 0,0:01:18.87,0:01:20.52,GJM_Main_1080p,Qifrey,0,0,0,,It's a bad time for it, too.
+Dialogue: 0,0:01:20.85,0:01:22.28,GJM_Main_1080p,Alaira,0,0,0,,Oh, of course.
+Dialogue: 0,0:01:22.28,0:01:25.27,GJM_Main_1080p,Alaira,0,0,0,,At this time of year, the Dadah Range, \Nwhere the test takes place...
+Dialogue: 0,0:01:25.27,0:01:28.19,GJM_Main_1080p,Qifrey,0,0,0,,They'll be at their highest elevation.
+Dialogue: 0,0:01:28.19,0:01:30.78,GJM_Main_1080p,Qifrey,0,0,0,,I wouldn't dream of putting \Nsomeone through that test now.
+Dialogue: 0,0:01:31.31,0:01:33.14,GJM_Main_1080p,Qifrey,0,0,0,,It could get them killed.
+Dialogue: 0,0:03:18.21,0:03:19.85,GJM_Main_1080p,Coco,0,0,0,,Hey, Agott.
+Dialogue: 0,0:03:21.13,0:03:24.35,GJM_Main_1080p,Coco,0,0,0,,Are you sure I should do this? \NMaster Qifrey isn't even here...
+Dialogue: 0,0:03:24.39,0:03:30.15,GJM_Main_1080p,Text,0,0,0,,{\fad(700,1000)\pos(1320,930)\an1\fs54\fnTimes New Roman\shad0\bord12\b1}The {\be3\bord3\3c&HFFFFFF&\c&H000000&\3a&H66&}Dadah Range Test
+Dialogue: 0,0:03:24.72,0:03:27.92,GJM_Main_1080p,Agott,0,0,0,,{\an8}You'll be doing it alone \Nwhenever you take it anyway.
+Dialogue: 0,0:03:27.92,0:03:30.86,GJM_Main_1080p,Coco,0,0,0,,{\an8}B-But I only just got here!
+Dialogue: 0,0:03:30.86,0:03:33.77,GJM_Main_1080p,Agott,0,0,0,,I passed the test when I was ten.
+Dialogue: 0,0:03:33.77,0:03:36.21,GJM_Main_1080p,Agott,0,0,0,,We all have to pass it \Nto become apprentices,
+Dialogue: 0,0:03:36.21,0:03:37.96,GJM_Main_1080p,Agott,0,0,0,,so you're in the same boat we were.
+Dialogue: 0,0:03:37.96,0:03:39.20,GJM_Main_1080p,Coco,0,0,0,,I see...
+Dialogue: 0,0:03:40.41,0:03:43.74,GJM_Main_1080p,Agott,0,0,0,,The first test is "Consent of the Crown."
+Dialogue: 0,0:03:43.74,0:03:47.56,GJM_Main_1080p,Agott,0,0,0,,You can only take three contraptions \Nand your components.
+Dialogue: 0,0:03:47.56,0:03:51.86,GJM_Main_1080p,Agott,0,0,0,,You have to reach the summit of the \NDadah Range purely on your own power,
+Dialogue: 0,0:03:51.86,0:03:55.20,GJM_Main_1080p,Agott,0,0,0,,and pick the Diadem Herb \Nthat grows there.
+Dialogue: 0,0:03:55.88,0:03:58.87,GJM_Main_1080p,Agott,0,0,0,,The Guidance Orb that points \Nthe way to your destination,
+Dialogue: 0,0:03:58.87,0:04:00.89,GJM_Main_1080p,Agott,0,0,0,,and the Vapor Bubble for drinking water...
+Dialogue: 0,0:04:01.20,0:04:03.74,GJM_Main_1080p,Agott,0,0,0,,That's probably all you can use right now.
+Dialogue: 0,0:04:05.14,0:04:07.03,GJM_Main_1080p,Agott,0,0,0,,Go on, then.
+Dialogue: 0,0:04:10.54,0:04:13.02,GJM_Main_1080p,Coco,0,0,0,,Um... and...
+Dialogue: 0,0:04:14.42,0:04:16.28,GJM_Main_1080p,Coco,0,0,0,,Could I have the shoes?
+Dialogue: 0,0:04:16.87,0:04:17.44,GJM_Main_1080p,Agott,0,0,0,,Shoes?
+Dialogue: 0,0:04:17.44,0:04:20.45,GJM_Main_1080p,Coco,0,0,0,,Those shoes are contraptions too, right?
+Dialogue: 0,0:04:20.45,0:04:22.41,GJM_Main_1080p,Coco,0,0,0,,Yours and Master Qifrey's...
+Dialogue: 0,0:04:22.41,0:04:24.79,GJM_Main_1080p,Coco,0,0,0,,I saw the soles glow while \Nyou were flying around.
+Dialogue: 0,0:04:25.04,0:04:29.29,GJM_Main_1080p,Coco,0,0,0,,So I thought... maybe...
+Dialogue: 0,0:04:29.62,0:04:33.11,GJM_Main_1080p,Coco,0,0,0,,you could lend me a pair?
+Dialogue: 0,0:04:34.00,0:04:37.83,GJM_Main_1080p,Coco,0,0,0,,That's too much, right?! \NForget I said it!
+Dialogue: 0,0:04:43.82,0:04:45.51,GJM_Main_1080p,Agott,0,0,0,,For you to borrow.
+Dialogue: 0,0:04:46.07,0:04:47.81,GJM_Main_1080p,Agott,0,0,0,,So just...
+Dialogue: 0,0:04:47.02,0:04:48.43,GJM_Main_1080p,Coco,0,0,0,,Thank you!
+Dialogue: 0,0:04:48.75,0:04:50.53,GJM_Main_1080p,Agott,0,0,0,,Get going already!
+Dialogue: 0,0:04:52.42,0:04:56.98,GJM_Main_1080p,Agott,0,0,0,,I forgot to mention it, but you \Nonly get to take this test once.
+Dialogue: 0,0:04:56.98,0:05:01.52,GJM_Main_1080p,Agott,0,0,0,,If you fail, you'll never be allowed \Nto be Master Qifrey's apprentice.
+Dialogue: 0,0:05:01.52,0:05:03.74,GJM_Main_1080p,Agott,0,0,0,,You'll have to leave the atelier, too.
+Dialogue: 0,0:05:14.04,0:05:16.28,GJM_Main_1080p,Coco,0,0,0,,I'm suddenly terrified...
+Dialogue: 0,0:05:17.50,0:05:19.32,GJM_Main_1080p,Coco,0,0,0,,But I've got to give it my best!
+Dialogue: 0,0:05:19.32,0:05:21.29,GJM_Main_1080p,Coco,0,0,0,,No turning back now!
+Dialogue: 0,0:05:22.79,0:05:26.55,GJM_Main_1080p,Coco,0,0,0,,How do I use the Guidance Orb, anyway?
+Dialogue: 0,0:05:36.98,0:05:39.82,GJM_Main_1080p,Coco,0,0,0,,Does it want me to go this way?
+Dialogue: 0,0:05:42.20,0:05:43.60,GJM_Main_1080p,Coco,0,0,0,,Okay!
+Dialogue: 0,0:05:43.60,0:05:46.16,GJM_Main_1080p,Coco,0,0,0,,I can handle a little mountain-climbing!
+Dialogue: 0,0:05:50.62,0:05:52.00,GJM_Main_1080p,Coco,0,0,0,,I can do it!
+Dialogue: 0,0:05:52.00,0:05:57.55,GJM_Main_1080p,Coco,0,0,0,,Agott said she passed when she was ten!
+Dialogue: 0,0:06:00.87,0:06:03.63,GJM_Main_1080p,Coco,0,0,0,,If she could do it at ten...
+Dialogue: 0,0:06:07.95,0:06:11.23,GJM_Main_1080p,Coco,0,0,0,,I can... also...
+Dialogue: 0,0:06:18.66,0:06:19.78,GJM_Main_1080p,Coco,0,0,0,,No way.
+Dialogue: 0,0:06:21.51,0:06:22.66,GJM_Main_1080p,Coco,0,0,0,,You mean...
+Dialogue: 0,0:06:30.47,0:06:33.75,GJM_Main_1080p,Coco,0,0,0,,{\i1}That's{\i0} the Dadah Range?
+Dialogue: 0,0:06:39.04,0:06:42.15,GJM_Main_1080p,Coco,0,0,0,,The Guidance Orb is pointing up.
+Dialogue: 0,0:06:42.15,0:06:44.16,GJM_Main_1080p,Coco,0,0,0,,It's up there, then.
+Dialogue: 0,0:06:48.78,0:06:51.50,GJM_Main_1080p,Coco,0,0,0,,I didn't realize they'd be floating.
+Dialogue: 0,0:06:58.76,0:07:00.11,GJM_Main_1080p,Coco,0,0,0,,Ta-da!
+Dialogue: 0,0:07:00.49,0:07:02.46,GJM_Main_1080p,Coco,0,0,0,,The shoes I borrowed from Agott!
+Dialogue: 0,0:07:02.86,0:07:04.44,GJM_Main_1080p,Coco,0,0,0,,Fly!
+Dialogue: 0,0:07:06.47,0:07:07.34,GJM_Main_1080p,Coco,0,0,0,,Huh?
+Dialogue: 0,0:07:17.68,0:07:21.79,GJM_Main_1080p,Coco,0,0,0,,The Casting Seal is split between \Nthe right and left foot.
+Dialogue: 0,0:07:29.51,0:07:33.09,GJM_Main_1080p,Coco,0,0,0,,Make sure they're perfectly aligned...
+Dialogue: 0,0:07:41.40,0:07:44.65,GJM_Main_1080p,Coco,0,0,0,,Wow! I'm really floating!
+Dialogue: 0,0:07:52.53,0:07:54.88,GJM_Main_1080p,Coco,0,0,0,,Master Qifrey was right.
+Dialogue: 0,0:07:55.21,0:07:57.46,GJM_Main_1080p,Coco,0,0,0,,I'm like a newborn foal stumbling around.
+Dialogue: 0,0:08:01.14,0:08:02.42,GJM_Main_1080p,Coco,0,0,0,,But...
+Dialogue: 0,0:08:06.92,0:08:08.31,GJM_Main_1080p,Coco,0,0,0,,I flew.
+Dialogue: 0,0:08:11.68,0:08:14.68,GJM_Main_1080p,Coco,0,0,0,,Flying can take me to \Nthe summit in no time!
+Dialogue: 0,0:08:15.68,0:08:16.81,GJM_Main_1080p,Coco,0,0,0,,All right...
+Dialogue: 0,0:08:17.18,0:08:18.54,GJM_Main_1080p,Coco,0,0,0,,I can do this!
+Dialogue: 0,0:08:23.14,0:08:26.90,GJM_Main_1080p,Qifrey,0,0,0,,{\i1}You'll get used to it and be \Nrunning around freely in no time.
+Dialogue: 0,0:08:28.73,0:08:31.49,GJM_Main_1080p,Coco,0,0,0,,{\i1}Get used to it. Get used to it.
+Dialogue: 0,0:08:54.85,0:08:57.55,GJM_Main_1080p,Qifrey,0,0,0,,Here's the application. \NPlease process it.
+Dialogue: 0,0:08:57.55,0:08:58.43,GJM_Main_1080p,Witch A,0,0,0,,Right.
+Dialogue: 0,0:08:58.71,0:09:00.49,GJM_Main_1080p,Witch A,0,0,0,,Thotrey. Number 12.
+Dialogue: 0,0:09:00.49,0:09:01.74,GJM_Main_1080p,Thotrey,0,0,0,,Right.
+Dialogue: 0,0:09:01.74,0:09:03.10,GJM_Main_1080p,Alaira,0,0,0,,If you'd live in the Great Hall,
+Dialogue: 0,0:09:03.10,0:09:05.69,GJM_Main_1080p,Alaira,0,0,0,,you wouldn't have to travel \Nso far for every little thing.
+Dialogue: 0,0:09:05.69,0:09:07.61,GJM_Main_1080p,Alaira,0,0,0,,You could bring your apprentices, too.
+Dialogue: 0,0:09:02.20,0:09:05.65,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}Let's see... number 12, number 12...
+Dialogue: 0,0:09:05.65,0:09:07.08,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}Oh, here it is.
+Dialogue: 0,0:09:07.61,0:09:09.76,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}I don't see the box, sir!
+Dialogue: 0,0:09:09.76,0:09:12.36,GJM_Main_1080p,Witch A,0,0,0,,{\an8}There's one in the back, right?
+Dialogue: 0,0:09:13.63,0:09:16.47,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}There it is! Here we go!
+Dialogue: 0,0:09:08.22,0:09:10.36,GJM_Main_1080p,Alaira,0,0,0,,The Great Hall is \Nthe witches' stronghold.
+Dialogue: 0,0:09:10.64,0:09:12.86,GJM_Main_1080p,Alaira,0,0,0,,It has everything we need.
+Dialogue: 0,0:09:13.13,0:09:16.05,GJM_Main_1080p,Qifrey,0,0,0,,Which is why I come here \Nwhen I need things.
+Dialogue: 0,0:09:17.38,0:09:18.51,GJM_Main_1080p,Thotrey,0,0,0,,Here you are.
+Dialogue: 0,0:09:18.51,0:09:19.62,GJM_Main_1080p,Qifrey,0,0,0,,Thank you.
+Dialogue: 0,0:09:19.62,0:09:22.06,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}Sir, is this for that Outsider—
+Dialogue: 0,0:09:22.06,0:09:23.21,GJM_Main_1080p,Witch A,0,0,0,,{\an8}Thotrey!
+Dialogue: 0,0:09:23.21,0:09:24.57,GJM_Main_1080p,Thotrey,0,0,0,,{\an8}I'm sorry!
+Dialogue: 0,0:09:20.09,0:09:22.87,GJM_Main_1080p,Alaira,0,0,0,,Your hatred of the Great \NHall runs deep, I see.
+Dialogue: 0,0:09:23.21,0:09:26.14,GJM_Main_1080p,Alaira,0,0,0,,Keep an eye on those \Napprentices of yours.
+Dialogue: 0,0:09:26.14,0:09:31.78,GJM_Main_1080p,Alaira,0,0,0,,You never know what children that age \Nmight get up to without adults around.
+Dialogue: 0,0:09:37.02,0:09:40.53,GJM_Main_1080p,Coco,0,0,0,,I think I'm keeping my balance \Nbetter than before!
+Dialogue: 0,0:09:40.53,0:09:43.15,GJM_Main_1080p,Coco,0,0,0,,Maybe now I can go a little higher...
+Dialogue: 0,0:10:24.15,0:10:27.03,GJM_Main_1080p,Coco,0,0,0,,A brushbuddy! I've never seen one before!
+Dialogue: 0,0:10:40.09,0:10:42.53,GJM_Main_1080p,Coco,0,0,0,,The shoes are caked with mud...
+Dialogue: 0,0:10:53.73,0:10:56.32,GJM_Main_1080p,Coco,0,0,0,,The Casting Seal came off?!
+Dialogue: 0,0:10:56.32,0:10:57.86,GJM_Main_1080p,Coco,0,0,0,,No way! Because I wiped it?
+Dialogue: 0,0:10:57.86,0:10:59.50,GJM_Main_1080p,Coco,0,0,0,,Oh, no! Oh, no! Oh, no! Oh, no!
+Dialogue: 0,0:10:59.50,0:11:01.97,GJM_Main_1080p,Coco,0,0,0,,I know! I'll just draw it back on!
+Dialogue: 0,0:11:04.41,0:11:07.98,GJM_Main_1080p,Coco,0,0,0,,The Conjuring Ink spilled in my bag...
+Dialogue: 0,0:11:12.91,0:11:14.45,GJM_Main_1080p,Coco,0,0,0,,What do I do?
+Dialogue: 0,0:11:16.75,0:11:18.69,GJM_Main_1080p,Coco,0,0,0,,Is it all over?
+Dialogue: 0,0:11:20.83,0:11:21.74,GJM_Main_1080p,Tetia,0,0,0,,Huh?
+Dialogue: 0,0:11:21.74,0:11:24.21,GJM_Main_1080p,Tetia,0,0,0,,Hey, Agott. Have you seen Coco?
+Dialogue: 0,0:11:24.21,0:11:26.87,GJM_Main_1080p,Tetia,0,0,0,,It's about time for dinner.
+Dialogue: 0,0:11:26.87,0:11:28.90,GJM_Main_1080p,Agott,0,0,0,,Coco's not here.
+Dialogue: 0,0:11:28.90,0:11:31.50,GJM_Main_1080p,Agott,0,0,0,,She went to the Dadah Range for her test.
+Dialogue: 0,0:11:31.50,0:11:32.94,GJM_Main_1080p,Tetia,0,0,0,,What?! By herself?!
+Dialogue: 0,0:11:32.94,0:11:35.17,GJM_Main_1080p,Tetia,0,0,0,,But she just got to the atelier!
+Dialogue: 0,0:11:35.17,0:11:36.59,GJM_Main_1080p,Tetia,0,0,0,,Why didn't you stop her?
+Dialogue: 0,0:11:36.59,0:11:37.88,GJM_Main_1080p,Tetia,0,0,0,,C'mon, Agott!
+Dialogue: 0,0:11:37.88,0:11:40.64,GJM_Main_1080p,Agott,0,0,0,,Most people take the test \Nbefore coming here, right?
+Dialogue: 0,0:11:40.64,0:11:43.39,GJM_Main_1080p,Tetia,0,0,0,,Y-Yes, but...
+Dialogue: 0,0:11:43.85,0:11:49.71,GJM_Main_1080p,Agott,0,0,0,,If she can't pass a test that simple, \Nshe shouldn't be an apprentice.
+Dialogue: 0,0:11:50.48,0:11:55.16,GJM_Main_1080p,Agott,0,0,0,,I hate people who can't do what I can.
+Dialogue: 0,0:11:55.16,0:11:57.60,GJM_Main_1080p,Agott,0,0,0,,I gain no benefit being around them.
+Dialogue: 0,0:11:58.26,0:12:01.24,GJM_Main_1080p,Agott,0,0,0,,Especially Outsiders.
+Dialogue: 0,0:12:02.11,0:12:06.00,GJM_Main_1080p,Agott,0,0,0,,Don't worry. She'll fail and \Ncome back soon enough.
+Dialogue: 0,0:12:06.72,0:12:11.65,GJM_Main_1080p,Agott,0,0,0,,The Dadah Range is at its \Nhighest this time of year.
+Dialogue: 0,0:12:11.65,0:12:15.18,GJM_Main_1080p,Agott,0,0,0,,She won't be able to fly that high \Nwith just my Sylph Shoes.
+Dialogue: 0,0:12:15.65,0:12:19.54,GJM_Main_1080p,Agott,0,0,0,,She doesn't even know the rules \Nor realize how dangerous this is.
+Dialogue: 0,0:12:20.89,0:12:24.10,GJM_Main_1080p,Agott,0,0,0,,I don't want someone \Nlike that in our world.
+Dialogue: 0,0:12:28.30,0:12:30.37,GJM_Main_1080p,Richeh,0,0,0,,Tetia, are you not going to eat?
+Dialogue: 0,0:12:32.06,0:12:33.52,GJM_Main_1080p,Tetia,0,0,0,,I am, but...
+Dialogue: 0,0:12:33.52,0:12:37.15,GJM_Main_1080p,Tetia,0,0,0,,I feel kinda... down.
+Dialogue: 0,0:12:41.54,0:12:42.59,GJM_Main_1080p,Richeh,0,0,0,,Going for more.
+Dialogue: 0,0:12:42.96,0:12:46.41,GJM_Main_1080p,Tetia,0,0,0,,Am I seriously the only \None who's worried?!
+Dialogue: 0,0:12:46.41,0:12:50.42,GJM_Main_1080p,Richeh,0,0,0,,There's nothing to do but wait \Nfor Master Qifrey regardless.
+Dialogue: 0,0:13:00.69,0:13:01.89,GJM_Main_1080p,Coco,0,0,0,,It's no use.
+Dialogue: 0,0:13:01.89,0:13:04.99,GJM_Main_1080p,Coco,0,0,0,,I tried drawing it back on \Nwith what little ink I had left,
+Dialogue: 0,0:13:04.99,0:13:07.65,GJM_Main_1080p,Coco,0,0,0,,but I can't even float now.
+Dialogue: 0,0:13:09.11,0:13:11.88,GJM_Main_1080p,Coco,0,0,0,,The ink soaks in and dilutes \Nbecause they're still wet.
+Dialogue: 0,0:13:19.19,0:13:22.53,GJM_Main_1080p,Coco,0,0,0,,If I drew it directly on\Nthe soles of my feet...
+Dialogue: 0,0:13:32.58,0:13:36.85,GJM_Main_1080p,Coco,0,0,0,,No! Magic drawn onto \Nthe body is forbidden.
+Dialogue: 0,0:13:38.94,0:13:43.10,GJM_Main_1080p,Coco,0,0,0,,I don't know what kind of magic \NI should use at a time like this.
+Dialogue: 0,0:13:48.11,0:13:50.56,GJM_Main_1080p,Coco,0,0,0,,I guess Agott was right.
+Dialogue: 0,0:14:02.74,0:14:08.02,GJM_Main_1080p,Coco,0,0,0,,Anyone can draw a spell, but that \Ndoesn't mean they'll be good at it.
+Dialogue: 0,0:14:08.74,0:14:13.65,GJM_Main_1080p,Coco,0,0,0,,I guess you have to be a special \Nkind of person to be a witch after all.
+Dialogue: 0,0:14:21.50,0:14:26.18,GJM_Main_1080p,Coco,0,0,0,,They've all been drawing spells \Nsince they were children.
+Dialogue: 0,0:14:26.60,0:14:28.93,GJM_Main_1080p,Coco,0,0,0,,It's not something I could ever...
+Dialogue: 0,0:14:47.82,0:14:50.31,GJM_Main_1080p,Coco's Mother,0,0,0,,Nice and straight.
+Dialogue: 0,0:15:07.17,0:15:10.23,GJM_Main_1080p,Qifrey,0,0,0,,{\i1}I had no idea this village had \Nsuch a skilled craftsman.
+Dialogue: 0,0:15:12.08,0:15:13.60,GJM_Main_1080p,Qifrey,0,0,0,,{\i1}This is real magic.
+Dialogue: 0,0:15:18.15,0:15:19.23,GJM_Main_1080p,Coco,0,0,0,,I have it...
+Dialogue: 0,0:15:23.56,0:15:26.49,GJM_Main_1080p,Coco,0,0,0,,I have my own magic!
+Dialogue: 0,0:15:48.67,0:15:51.56,GJM_Main_1080p,Coco,0,0,0,,If I let a little water \Nsoak in and dilute it...
+Dialogue: 0,0:15:57.02,0:16:00.31,GJM_Main_1080p,Coco,0,0,0,,The mud's dried on my wet cape \Nand made it a little stiff.
+Dialogue: 0,0:16:00.31,0:16:01.96,GJM_Main_1080p,Coco,0,0,0,,I think I can draw on it like this.
+Dialogue: 0,0:16:28.89,0:16:32.35,GJM_Main_1080p,Qifrey,0,0,0,,{\i1}It's natural to have unsteady hands \Nwhen you're learning to use a new tool.
+Dialogue: 0,0:16:35.26,0:16:39.21,GJM_Main_1080p,Coco,0,0,0,,{\i1}Then I'll swap it for a tool I'm used to.
+Dialogue: 0,0:16:40.92,0:16:44.65,GJM_Main_1080p,Coco,0,0,0,,{\i1}My fingers begin to dance \Nof their own accord.
+Dialogue: 0,0:16:45.87,0:16:47.09,GJM_Main_1080p,Coco,0,0,0,,{\i1}Freely.
+Dialogue: 0,0:16:55.88,0:16:56.87,GJM_Main_1080p,Coco,0,0,0,,There!
+Dialogue: 0,0:16:57.54,0:16:59.08,GJM_Main_1080p,Coco,0,0,0,,Morning, brushbuddy!
+Dialogue: 0,0:16:59.08,0:17:00.87,GJM_Main_1080p,Coco,0,0,0,,You've made yourself \Nat home, haven't you?
+Dialogue: 0,0:17:01.96,0:17:04.75,GJM_Main_1080p,Coco,0,0,0,,It's a pretty ugly Casting Seal, isn't it?
+Dialogue: 0,0:17:04.75,0:17:07.09,GJM_Main_1080p,Coco,0,0,0,,To draw one properly, \Nthe sigil needs to be centered,
+Dialogue: 0,0:17:07.09,0:17:09.63,GJM_Main_1080p,Coco,0,0,0,,and the signs are supposed to be uniform.
+Dialogue: 0,0:17:09.96,0:17:11.79,GJM_Main_1080p,Coco,0,0,0,,He taught me that if \Nthe signs aren't balanced,
+Dialogue: 0,0:17:11.79,0:17:14.64,GJM_Main_1080p,Coco,0,0,0,,it can put too much energy \Ninto one direction.
+Dialogue: 0,0:17:14.64,0:17:17.89,GJM_Main_1080p,Coco,0,0,0,,I wanted to see what would happen \Nif I made one long on purpose!
+Dialogue: 0,0:17:18.31,0:17:20.63,GJM_Main_1080p,Coco,0,0,0,,I'm not sure if it'll work, though.
+Dialogue: 0,0:17:29.52,0:17:30.86,GJM_Main_1080p,Coco,0,0,0,,You want to come, too?
+Dialogue: 0,0:17:31.86,0:17:35.00,GJM_Main_1080p,Coco,0,0,0,,Really? Hold on tight, then.
+Dialogue: 0,0:17:35.74,0:17:37.49,GJM_Main_1080p,Coco,0,0,0,,I'm closing the ring.
+Dialogue: 0,0:17:45.70,0:17:48.28,GJM_Main_1080p,Coco,0,0,0,,What? What's happening?!
+Dialogue: 0,0:17:48.28,0:17:51.26,GJM_Main_1080p,Coco,0,0,0,,Did I get the sign's direction wrong?!
+Dialogue: 0,0:18:24.71,0:18:26.00,GJM_Main_1080p,Coco,0,0,0,,I did it!
+Dialogue: 0,0:18:26.00,0:18:29.25,GJM_Main_1080p,Coco,0,0,0,,I'm flying with my own spell!
+Dialogue: 0,0:18:29.64,0:18:31.76,GJM_Main_1080p,Coco,0,0,0,,A real cloak of flight...
+Dialogue: 0,0:18:32.04,0:18:33.36,GJM_Main_1080p,Coco,0,0,0,,It's like a dream!
+Dialogue: 0,0:18:45.49,0:18:51.95,GJM_Main_1080p,Coco,0,0,0,,I never thought helping Mom \Nwould help me learn magic...
+Dialogue: 0,0:18:55.16,0:18:57.08,GJM_Main_1080p,Coco,0,0,0,,But the Diadem Herb is higher than this!
+Dialogue: 0,0:19:11.38,0:19:12.55,GJM_Main_1080p,Coco,0,0,0,,The Diadem Herb!
+Dialogue: 0,0:20:12.10,0:20:13.44,GJM_Main_1080p,Coco,0,0,0,,{\i1}Mom...
+Dialogue: 0,0:20:20.53,0:20:22.73,GJM_Main_1080p,Coco,0,0,0,,{\i1}Wait for me, Mom!
+Dialogue: 0,0:20:23.95,0:20:27.76,GJM_Main_1080p,Coco,0,0,0,,{\i1}I'll take responsibility \Nfor what I've done!
+Dialogue: 0,0:20:31.96,0:20:35.46,GJM_Main_1080p,Qifrey,0,0,0,,So Coco went to the Dadah Range \Nto take the test for herself?!
+Dialogue: 0,0:20:36.97,0:20:40.15,GJM_Main_1080p,Qifrey,0,0,0,,That's too dangerous! \NI have to go save her!
+Dialogue: 0,0:20:40.15,0:20:42.47,GJM_Main_1080p,Tetia,0,0,0,,But she'll fail if you interrupt her!
+Dialogue: 0,0:20:42.47,0:20:44.97,GJM_Main_1080p,Qifrey,0,0,0,,It was too soon for her \Nto take the test anyway.
+Dialogue: 0,0:20:45.58,0:20:48.83,GJM_Main_1080p,Qifrey,0,0,0,,She hasn't been living around magic \Nher whole life like we have.
+Dialogue: 0,0:20:49.91,0:20:51.98,GJM_Main_1080p,Qifrey,0,0,0,,If anything were to happen to Coco...
+Dialogue: 0,0:20:52.58,0:20:55.11,GJM_Main_1080p,Qifrey,0,0,0,,{\i1}She wouldn't be the only loss suffered.
+Dialogue: 0,0:20:55.11,0:20:56.41,GJM_Main_1080p,Qifrey,0,0,0,,There.
+Dialogue: 0,0:21:02.43,0:21:03.43,GJM_Main_1080p,Coco,0,0,0,,Eh?
+Dialogue: 0,0:21:03.87,0:21:05.00,GJM_Main_1080p,Qifrey/Tetia,0,0,0,,Coco!
+Dialogue: 0,0:21:05.44,0:21:07.23,GJM_Main_1080p,Tetia,0,0,0,,Thank goodness!
+Dialogue: 0,0:21:07.23,0:21:09.57,GJM_Main_1080p,Tetia,0,0,0,,Coco! You're safe!
+Dialogue: 0,0:21:09.57,0:21:13.16,GJM_Main_1080p,Tetia,0,0,0,,I was so totally, \Ntotally worried about you!
+Dialogue: 0,0:21:14.48,0:21:15.76,GJM_Main_1080p,Coco,0,0,0,,Agott!
+Dialogue: 0,0:21:17.20,0:21:19.75,GJM_Main_1080p,Coco,0,0,0,,I got the "Consent of the Crown."
+Dialogue: 0,0:21:23.23,0:21:25.30,GJM_Main_1080p,Coco,0,0,0,,This is the proof I need, right?
+Dialogue: 0,0:21:35.40,0:21:36.53,GJM_Main_1080p,Qifrey,0,0,0,,Coco.
+Dialogue: 0,0:21:36.53,0:21:39.69,GJM_Main_1080p,Qifrey,0,0,0,,It's extremely dangerous to cast spells
+Dialogue: 0,0:21:39.69,0:21:42.95,GJM_Main_1080p,Qifrey,0,0,0,,without the proper preparation \Nand fundamental knowledge.
+Dialogue: 0,0:21:43.28,0:21:45.08,GJM_Main_1080p,Qifrey,0,0,0,,I thought you'd learned that already.
+Dialogue: 0,0:21:47.59,0:21:50.52,GJM_Main_1080p,Qifrey,0,0,0,,You could easily have died back there.
+Dialogue: 0,0:21:50.87,0:21:52.79,GJM_Main_1080p,Qifrey,0,0,0,,Never do anything like that again.
+Dialogue: 0,0:21:53.12,0:21:56.04,GJM_Main_1080p,Coco,0,0,0,,I'm sorry, Master Qifrey.
+Dialogue: 0,0:21:58.14,0:22:02.05,GJM_Main_1080p,Qifrey,0,0,0,,Besides, you didn't need to put yourself \Nin danger to prove anything.
+Dialogue: 0,0:22:02.43,0:22:05.05,GJM_Main_1080p,Qifrey,0,0,0,,You're already my apprentice.
+Dialogue: 0,0:22:18.98,0:22:20.25,GJM_Main_1080p,Coco,0,0,0,,This is...
+Dialogue: 0,0:22:24.78,0:22:27.12,GJM_Main_1080p,Qifrey,0,0,0,,The proof that you're a witch.
+Dialogue: 0,0:22:27.82,0:22:29.58,GJM_Main_1080p,Qifrey,0,0,0,,It's both our pride
+Dialogue: 0,0:22:29.58,0:22:34.69,GJM_Main_1080p,Qifrey,0,0,0,,and a shackle that rests atop our head \Nso we don't abuse our magic.
+Dialogue: 0,0:22:44.80,0:22:48.81,GJM_Main_1080p,Qifrey,0,0,0,,As long as you wear it, \Ndon't forget its weight.
+Dialogue: 0,0:22:50.30,0:22:53.85,GJM_Main_1080p,Qifrey,0,0,0,,The pointed cap is watching your magic.
+Dialogue: 0,0:22:56.41,0:22:58.06,GJM_Main_1080p,Qifrey,0,0,0,,Take good care of it.
+Dialogue: 0,0:22:59.23,0:23:00.26,GJM_Main_1080p,Coco,0,0,0,,Okay!
+Dialogue: 0,0:23:01.28,0:23:03.97,GJM_Main_1080p,Qifrey,0,0,0,,{\an8}All right. Let's go back up.
+Dialogue: 0,0:23:03.97,0:23:04.93,GJM_Main_1080p,Coco,0,0,0,,{\an8}Okay!
+Dialogue: 0,0:23:09.08,0:23:11.15,GJM_Main_1080p,Tetia,0,0,0,,{\an8}Guess we'd better eat first!
+Dialogue: 0,0:23:11.97,0:23:13.98,GJM_Main_1080p,Richeh,0,0,0,,{\an8}Take a bath, too.
+Dialogue: 0,0:23:32.28,0:23:34.33,GJM_Main_1080p,Iguin,0,0,0,,The seed has sprouted.
+Dialogue: 0,0:23:35.44,0:23:39.98,Sign_Basic,TEXT,0,0,0,,{\fad(250,0)\pos(960,315)\fnTimes New Roman\fs60\c&H000000&\bord0\shad0}Episode 4:
+Dialogue: 0,0:23:35.44,0:23:39.98,Sign_Basic,TEXT,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs84\c&H000000&\bord0\shad0\pos(960,735)}Meetings in Kalhn
