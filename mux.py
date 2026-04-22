@@ -27,15 +27,15 @@ def make_mux(x):
 
     full = (
         dialogue.merge(ts)
-        .merge(op, sync="Opening", use_actor_field=False)
-        .merge(ed, sync="Ending", use_actor_field=False)
+        .merge(op, sync="Opening", sync2="OP", use_actor_field=False)
+        .merge(ed, sync="Ending", sync2="ED", use_actor_field=False)
     )
 
     dubtitles = (
         SubFile.from_srt(f"./{setup.episode}/WHA - {setup.episode} - Dubtitles.srt")
         .merge(ts)
-        .merge(op, sync="Opening", use_actor_field=False)
-        .merge(ed, sync="Ending", use_actor_field=False)
+        # .merge(op, sync="Opening", sync2="OP", use_actor_field=False)
+        # .merge(ed, sync="Ending", sync2="ED", use_actor_field=False) # TODO: Fix this
     )
 
     chapters = Chapters.from_sub(full)
