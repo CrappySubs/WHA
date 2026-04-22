@@ -15,6 +15,11 @@ Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:05.00,GJM_Main_1080p,,0,0,0,chapter,Prologue
+Comment: 0,0:03:01.95,0:03:01.97,GJM_Main_1080p,,0,0,0,chapter,Opening
+Comment: 0,0:04:32.00,0:04:46.50,GJM_Main_1080p,,0,0,0,chapter,Episode
+Comment: 0,0:22:05.01,0:22:05.07,GJM_Main_1080p,,0,0,0,chapter,Ending
+Comment: 0,0:23:35.02,0:23:35.17,GJM_Main_1080p,,0,0,0,chapter,Preview
 Dialogue: 0,0:00:02.56,0:00:04.90,GJM_Main_1080p,Qifrey,0,0,0,,There are many kinds of magic,
 Dialogue: 0,0:00:04.90,0:00:08.93,GJM_Main_1080p,Qifrey,0,0,0,,but four are considered \Nparticularly important.
 Dialogue: 0,0:00:11.38,0:00:15.93,GJM_Main_1080p,Qifrey,0,0,0,,{\fad(0,413)}Granting control to that nourishing \Nforce, the source of all life—
@@ -101,7 +106,7 @@ Dialogue: 0,0:07:57.25,0:07:59.00,GJM_Main_1080p,Tetia,0,0,0,,This is Mister Nol
 Dialogue: 0,0:07:59.00,0:08:02.12,GJM_Main_1080p,Tetia,0,0,0,,He's the owner of the magic \Nstationer's, the Starry Sword!
 Dialogue: 0,0:08:02.12,0:08:03.25,GJM_Main_1080p,Nolnoa,0,0,0,,Indeed.
 Dialogue: 0,0:08:03.56,0:08:09.00,GJM_Main_1080p,Nolnoa,0,0,0,,All the Components here were made \Nby me and my grandson Tartah.
-Dialogue: 0,0:08:09.00,0:08:10.01,GJM_Main_1080p,Nolnoa,0,0,0,,All the pens, 
+Dialogue: 0,0:08:09.00,0:08:10.01,GJM_Main_1080p,Nolnoa,0,0,0,,All the pens,
 Dialogue: 0,0:08:10.01,0:08:11.33,GJM_Main_1080p,Nolnoa,0,0,0,,all the ink...
 Dialogue: 0,0:08:11.33,0:08:13.66,GJM_Main_1080p,Nolnoa,0,0,0,,Every last one!
 Dialogue: 0,0:08:13.66,0:08:17.19,GJM_Main_1080p,Nolnoa,0,0,0,,I can also extract Conjuring Ink \Nat whatever concentration you want.
