@@ -19,18 +19,18 @@ def make_mux(x):
 
     ts = SubFile(f"./{setup.episode}/WHA - {setup.episode} - Signs.ass")
 
-    full = dialogue.merge(ts)
+    full = dialogue.merge(ts).merge(f"./common/WHA - OP.ass", sync="Opening", use_actor_field=False).merge(f"./common/WHA - ED.ass", sync="Ending", use_actor_field=False)
 
     dubtitles = SubFile.from_srt(
         f"./{setup.episode}/WHA - {setup.episode} - Dubtitles.srt"
     ).merge(ts)
 
-    #japanese = SubFile(f"./{setup.episode}/WHA - {setup.episode} - Japanese.ass")
+    japanese = SubFile(f"./{setup.episode}/WHA - {setup.episode} - Japanese.ass")
 
     chapters = Chapters.from_sub(full)
 
-    #full, dubtitles, ts, japanese = [
-    full, dubtitles, ts = [
+    full, dubtitles, ts, japanese = [
+    #full, dubtitles, ts = [
         x.set_headers(
             (ASSHeader.PlayResX, 1920),
             (ASSHeader.PlayResY, 1080),
@@ -42,27 +42,27 @@ def make_mux(x):
         )
         .clean_styles()
         .clean_garbage()
-        #for x in (full, dubtitles, ts, japanese)
-        for x in (full, dubtitles, ts)
+        for x in (full, dubtitles, ts, japanese)
+        #for x in (full, dubtitles, ts)
     ]
 
-    fonts = full.collect_fonts(use_system_fonts=True)
+    fonts = full.collect_fonts(use_system_fonts=False)
 
-    #jp_fonts = japanese.collect_fonts(use_system_fonts=False)
+    jp_fonts = japanese.collect_fonts(use_system_fonts=False)
 
     mux(
         premux,
         full.to_track(name="Full Subtitles [Chika]", lang="eng"),
-        dubtitles.to_track(name="Dubtitles [NF]", lang="eng", default=False, forced=False),
+        dubtitles.to_track(name="Dubtitles [CR]", lang="eng", default=False, forced=False),
         ts.to_track(
             name="Signs & Songs [Chika]", lang="en", default=False, forced=True
         ),
-        #japanese.to_track(
-        #    name="Japanese Subtitles [SonicMaster]", lang="jpn", default=False
-        #),
+        japanese.to_track(
+            name="Japanese Subtitles [SonicMaster]", lang="jpn", default=False, forced=False
+        ),
         chapters,
         *fonts,
-        #*jp_fonts,
+        *jp_fonts,
     )
 
 
