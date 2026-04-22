@@ -1,11 +1,12 @@
 ﻿[Script Info]
-Title: English (US)
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,7 +17,7 @@ Style: EDr2,Alegreya,75,&H00FFFFFF,&H40DDFFF3,&H80000000,&HA0000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:58.04,0:02:28.00,OPr,,0,0,0,chapter,Opening
+Comment: 0,0:00:58.04,0:02:28.00,OPr,,0,0,0,Opening,
 Dialogue: 0,0:01:15.22,0:01:18.18,OPr,,0,0,0,,{\k46}{\fad(450,0)}{burn/erode in with particles, cf. title at 1583,1660. consider starting at 1730}{\k13}ka{\k13}ze {\k12}no {\k37}tsu{\k25}te {\k24}ga {\k24}ha{\k25}kon{\k12}de{\k25}ku{\k12}re{\k28}ru
 Dialogue: 0,0:01:18.18,0:01:23.06,OPr,,0,0,0,,{\k16}{\k25}tsu{\k25}ki {\k50}ni {\k23}o{\k12}do{\k13}re{\k48}ba{\k24} {\k24}yo{\k50}ru {\k22}ni {\k25}so{\k49}ma{\k25}ru {\k12}ma{\k45}dou
 Dialogue: 0,0:01:23.06,0:01:26.02,OPr,,0,0,0,,{\k34}{\k13}ka{\k12}wa{\k13}ku {\k38}ho{\k25}do {\k25}ni {\k24}mi{\k23}ta{\k12}sa{\k24}re{\k14}na{\k39}i

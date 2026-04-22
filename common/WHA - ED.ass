@@ -1,11 +1,12 @@
 ﻿[Script Info]
-Title: English (US)
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,7 +17,7 @@ Style: EDr2,Alegreya,75,&H00FFFFFF,&H40DDFFF3,&H80000000,&HA0000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:04.97,0:23:34.98,EDr1,,0,0,0,chapter,Ending
+Comment: 0,0:22:04.97,0:23:34.98,EDr1,,0,0,0,Ending,
 Dialogue: 0,0:22:05.85,0:22:11.02,EDr1,,0,0,0,,{\k53}{\fad(500,300)}{\k24}yo{\k24}ru {\k76}ni {\k26}shi{\k52}mai{\k20}ko{\k19}n{\k39}de {\k26}shi{\k38}mat{\k79}ta{\k41}
 Dialogue: 0,0:22:11.27,0:22:17.19,EDr1,,0,0,0,,{\k31}{\fad(300,300)}{\k27}mo{\k51}u {\k36}boku{\k19}ra {\k38}ni{\k59} {\k40}itsu{\k17}ka {\k18}wa {\k18}ko{\k40}nai {\k156}to{\k42}
 Dialogue: 0,0:22:17.40,0:22:23.87,EDr1,,0,0,0,,{\k31}{\fad(300,300)}{\k34}i{\k34}ma {\k23}fu{\k23}re{\k35}te{\k35} {\k18}ma{\k47}mo{\k32}naku {\k21}ku{\k19}zu{\k19}re{\k42}ochi{\k57}te {\k19}shi{\k18}ma{\k19}u {\k23}na{\k56}ra{\k42}
