@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OPr,Alegreya,75,&H00FFFFFF,&H40FFFFFF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+Style: OPe,Alegreya,75,&H00FFFFFF,&H40FFFFFF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,225,225,60,1
+Style: EDr1,Alegreya,75,&H00FFFFFF,&H00A1A9A9,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+Style: EDr2,Alegreya,75,&H00FFFFFF,&H40DDFFF3,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:58.04,0:02:28.00,OPr,,0,0,0,chapter,Opening
+Dialogue: 0,0:01:15.22,0:01:18.18,OPr,,0,0,0,,{\k46}{\fad(450,0)}{burn/erode in with particles, cf. title at 1583,1660. consider starting at 1730}{\k13}ka{\k13}ze {\k12}no {\k37}tsu{\k25}te {\k24}ga {\k24}ha{\k25}kon{\k12}de{\k25}ku{\k12}re{\k28}ru
+Dialogue: 0,0:01:18.18,0:01:23.06,OPr,,0,0,0,,{\k16}{\k25}tsu{\k25}ki {\k50}ni {\k23}o{\k12}do{\k13}re{\k48}ba{\k24} {\k24}yo{\k50}ru {\k22}ni {\k25}so{\k49}ma{\k25}ru {\k12}ma{\k45}dou
+Dialogue: 0,0:01:23.06,0:01:26.02,OPr,,0,0,0,,{\k34}{\k13}ka{\k12}wa{\k13}ku {\k38}ho{\k25}do {\k25}ni {\k24}mi{\k23}ta{\k12}sa{\k24}re{\k14}na{\k39}i
+Dialogue: 0,0:01:26.02,0:01:29.90,OPr,,0,0,0,,{\k8}{\fad(0,300)}{\k25}ko{\k25}no {\k48}shun{\k48}kan {\k35}ga {\k13}ho{\k36}shi{\k36}ku{\k79}te{\k35}
+Dialogue: 0,0:01:29.90,0:01:34.32,OPr,,0,0,0,,{\k8}{\k24}ma{\k24}da {\k24}wa{\k24}ka{\k13}ra{\k36}nai {\k24}ma{\k24}yo{\k12}e{\k36}ru {\k24}ko{\k24}hi{\k13}tsu{\k24}ji {\k13}no {\k48}yo{\k25}u{\k22}
+Dialogue: 0,0:01:34.32,0:01:39.08,OPr,,0,0,0,,{\k12}na{\k13}ni{\k24}mo{\k12}no {\k24}de{\k12}mo {\k49}nai {\k24}to{\k24}ku{\k24}be{\k37}tsu {\k36}de {\k24}wa {\k48}nai {\k48}you {\k65}de
+Dialogue: 0,0:01:39.08,0:01:46.67,OPr,,0,0,0,,{\k8}{\fad(0,450)}{\k24}a{\k24}su {\k24}ga {\k25}ho{\k25}shi{\k49}kat{\k49}ta {\k16}ta{\k16}do{\k16}ru{\k32}beki {\k16}se{\k72}ka{\k25}i {\k72}no {\k24}yo{\k73}a{\k25}ke {\k25}e {\k71}to{\k48}
+Dialogue: 0,0:01:48.25,0:01:52.22,OPr,,0,0,0,,{\k9}{\k25}ko{\k25}e {\k25}ga {\k24}hi{\k24}bi{\k74}ku {\k12}ki{\k12}mi {\k47}to{\k48} {\k13}ki{\k13}mi {\k46}no
+Dialogue: 0,0:01:52.22,0:01:55.60,OPr,,0,0,0,,{\k13}i{\k13}tsu{\k36}ka {\k12}wo {\k12}tsu{\k13}na{\k48}gu {\k24}un{\k36}mei {\k36}no {\k48}you {\k47}na
+Dialogue: 0,0:01:55.60,0:01:59.39,OPr,,0,0,0,,{\k25}ka{\k36}sa{\k25}na{\k13}ri{\k48}a{\k47}u {\k25}kyou{\k37}mei {\k37}no {\k47}an{\k39}them
+Dialogue: 0,0:01:59.39,0:02:03.73,OPr,,0,0,0,,{\k10}{\k24}wa{\k36}zu{\k36}ka {\k36}na {\k37}i{\k73}no{\k12}ri {\k12}i{\k71}daku {\k13}hi{\k12}bi {\k62}yo
+Dialogue: 0,0:02:03.73,0:02:07.65,OPr,,0,0,0,,{\k11}{\k24}da{\k24}re {\k24}yo{\k24}ri {\k25}e{\k71}gai{\k13}ta {\k13}ki{\k34}bou {\k13}o{\k48}mou {\k13}yu{\k13}me {\k42}mo
+Dialogue: 0,0:02:07.65,0:02:11.90,OPr,,0,0,0,,{\k8}{\k12}i{\k13}no{\k47}chi {\k12}no {\k13}i{\k47}ro {\k13}ga {\k12}ka{\k36}ga{\k36}ya{\k48}ku {\k48}ma{\k24}ho{\k56}u
+Dialogue: 0,0:02:11.90,0:02:16.78,OPr,,0,0,0,,{\k17}{\k25}so{\k48}no{\k24} {\k24}chi{\k24}ka{\k12}ra {\k36}ga {\k48}na{\k25}ku{\k48}tat{\k73}te {\k72}mou{\k12}
+Dialogue: 0,0:02:16.78,0:02:20.58,OPr,,0,0,0,,{\k13}{\k24}ma{\k48}you {\k37}ko{\k12}to {\k48}wa {\k48}nai {\k150}sa
+Dialogue: 0,0:02:20.58,0:02:22.91,OPr,,0,0,0,,{\k20}{\k24}fu{\k36}shi{\k36}gi {\k48}na {\k13}hi{\k12}bi {\k44}yo
+Dialogue: 0,0:01:15.22,0:01:18.18,OPe,,0,0,0,,{\fad(450,0)}The winds whisper of my next chapter
+Dialogue: 0,0:01:18.18,0:01:23.06,OPe,,0,0,0,,{The night's glow drawn anew}Nights glistening anew with sorcery
+Dialogue: 0,0:01:23.06,0:01:26.02,OPe,,0,0,0,,I can barely stand to let the ink dry{The ink cannot dry fast enough}
+Dialogue: 0,0:01:26.02,0:01:29.90,OPe,,0,0,0,,{\fad(0,300)}I've been waiting for this all along
+Dialogue: 0,0:01:29.90,0:01:34.32,OPe,,0,0,0,,So much to learn that I hardly know where to begin
+Dialogue: 0,0:01:34.32,0:01:39.08,OPe,,0,0,0,,But even though I don't think I'm all that special
+Dialogue: 0,0:01:39.08,0:01:46.67,OPe,,0,0,0,,{\fad(0,450)}I won't stray from the path that leads to my dreams
+Dialogue: 0,0:01:48.25,0:01:52.22,OPe,,0,0,0,,My voice and yours in unison
+Dialogue: 0,0:01:52.22,0:01:55.60,OPe,,0,0,0,,As if fate meant to bring us together
+Dialogue: 0,0:01:55.60,0:01:59.39,OPe,,0,0,0,,An anthem built from our harmony
+Dialogue: 0,0:01:59.39,0:02:03.73,OPe,,0,0,0,,Every note a prayer held dear
+Dialogue: 0,0:02:03.73,0:02:07.65,OPe,,0,0,0,,All I've hoped and longed for so much{more than anyone}
+Dialogue: 0,0:02:07.65,0:02:11.90,OPe,,0,0,0,,{This magic is what truly gives color to life}{The beauty of life is its own magic}Giving life color is its own magic
+Dialogue: 0,0:02:11.90,0:02:16.78,OPe,,0,0,0,,Even if I am ever without this power
+Dialogue: 0,0:02:16.78,0:02:20.58,OPe,,0,0,0,,Each step will take me that much closer
+Dialogue: 0,0:02:20.58,0:02:22.91,OPe,,0,0,0,,Every day a new wonder

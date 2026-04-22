@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OPr,Alegreya,75,&H00FFFFFF,&H40FFFFFF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+Style: OPe,Alegreya,75,&H00FFFFFF,&H40FFFFFF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,225,225,60,1
+Style: EDr1,Alegreya,75,&H00FFFFFF,&H00A1A9A9,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+Style: EDr2,Alegreya,75,&H00FFFFFF,&H40DDFFF3,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,225,225,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:22:04.97,0:23:34.98,EDr1,,0,0,0,chapter,Ending
+Dialogue: 0,0:22:05.85,0:22:11.02,EDr1,,0,0,0,,{\k53}{\fad(500,300)}{\k24}yo{\k24}ru {\k76}ni {\k26}shi{\k52}mai{\k20}ko{\k19}n{\k39}de {\k26}shi{\k38}mat{\k79}ta{\k41}
+Dialogue: 0,0:22:11.27,0:22:17.19,EDr1,,0,0,0,,{\k31}{\fad(300,300)}{\k27}mo{\k51}u {\k36}boku{\k19}ra {\k38}ni{\k59} {\k40}itsu{\k17}ka {\k18}wa {\k18}ko{\k40}nai {\k156}to{\k42}
+Dialogue: 0,0:22:17.40,0:22:23.87,EDr1,,0,0,0,,{\k31}{\fad(300,300)}{\k34}i{\k34}ma {\k23}fu{\k23}re{\k35}te{\k35} {\k18}ma{\k47}mo{\k32}naku {\k21}ku{\k19}zu{\k19}re{\k42}ochi{\k57}te {\k19}shi{\k18}ma{\k19}u {\k23}na{\k56}ra{\k42}
+Dialogue: 0,0:22:23.91,0:22:31.21,EDr1,,0,0,0,,{\k31}{\fad(300,300)}{\k18}a{\k16}no {\k19}yu{\k17}me {\k42}mou{\k38} {\k21}ki{\k22}rei {\k37}ni {\k17}sa{\k18}ra{\k20}wa{\k20}re{\k20}te {\k20}shi{\k80}mau{\k147} {\k47}ka {\k38}na{\k42}
+Dialogue: 0,0:22:31.50,0:22:35.29,EDr1,,0,0,0,,{\k32}{\fad(300,300)}{\k36}gen{\k36}jitsu {\k18}to {\k18}ki{\k36}bou {\k24}no {\k29}suki{\k20}ma {\k36}de {\k38}hitoshi{\k18}re{\k38}zu
+Dialogue: 0,0:22:35.29,0:22:37.67,EDr1,,0,0,0,,{\k33}{\fad(300,300)}{\k17}ma{\k34}moru {\k17}so{\k25}re {\k17}ka{\k17}ra {\k36}da{\k42}
+Dialogue: 0,0:22:38.34,0:22:40.84,EDr1,,0,0,0,,{\k36}{\fad(300,300)}{\k18}so{\k34}no {\k18}ma{\k34}satsu {\k33}de{\k36}mo{\k41}
+Dialogue: 0,0:22:41.67,0:22:44.64,EDr1,,0,0,0,,{\k34}{\fad(300,300)}{\k25}ka{\k49}wa{\k24}ku{\k48}na{\k26}i {\k30}a{\k48}me{\k13}
+Dialogue: 0,0:22:44.64,0:22:49.89,EDr1,,0,0,0,,{\k30}{\fad(300,300)}{\k16}i{\k59}te{\k19}tsu{\k37}ku{\k18} {\k22}ku{\k27}u{\k28}ki {\k17}tsu{\k25}i {\k31}ni {\k17}ko{\k37}t{\k20}ta {\k22}ha{\k59}na{\k41}
+Dialogue: 0,0:22:49.89,0:22:52.39,EDr1,,0,0,0,,{\k32}{\fad(300,300)}{\k20}ta{\k20}chi{\k20}tsu{\k19}ku{\k19}su {\k28}so{\k52}ra{\k40}
+Dialogue: 0,0:22:53.10,0:22:55.94,EDr1,,0,0,0,,{\k34}{\fad(300,300)}{\k32}a{\k33}no {\k21}shi{\k21}a{\k21}wa{\k22}se {\k76}wa{\k24}
+Dialogue: 0,0:22:55.94,0:22:59.28,EDr1,,0,0,0,,{\k30}{\fad(300,300)}{\k20}hi{\k20}tsu{\k37}you {\k19}ja {\k20}na{\k37}kat{\k37}ta {\k37}no {\k39}ka{\k38}
+Dialogue: 0,0:22:59.28,0:23:06.07,EDr1,,0,0,0,,{\k33}{\fad(300,300)}{\k21}ta{\k23}da{\k13} {\k21}u{\k20}tsu{\k20}ku{\k126}shi{\k36}i{\k22} {\k18}no{\k18}ro{\k18}i {\k120}ga{\k39} {\k38}mu{\k18}ja{\k18}ki {\k38}ni{\k19}
+Dialogue: 0,0:23:06.07,0:23:10.29,EDr1,,0,0,0,,{\k34}{\fad(300,300)}{\k19}hi{\k19}ka{\k19}ri {\k19}sa{\k20}e {\k19}chi{\k20}gi{\k38}ru{\k37} {\k37}jou{\k40}kei {\k58}wo{\k43}
+Dialogue: 0,0:23:11.50,0:23:18.34,EDr2,,0,0,0,,{\k33}{\fad(300,300)}{\k21}ta{\k40}da {\k22}i{\k44}to{\k118}shi{\k30}i{\k20} {\k20}no{\k19}ro{\k20}i {\k137}de{\k21} {\k38}su{\k19}be{\k19}te {\k40}wo{\k23}{end early for flash}
+Dialogue: 0,0:23:18.38,0:23:23.42,EDr2,,0,0,0,,{\k29}{\fad(300,300)}{\k19}hi{\k19}to{\k19}ma {\k18}ni {\k19}u{\k38}bat{\k52}te{\k22} {\k18}u{\k19}shi{\k37}nat{\k29}te {\k46}shimau {\k19}na{\k56}ra{\k45}
+Dialogue: 0,0:23:24.34,0:23:32.52,EDr2,,0,0,0,,{\k32}{\fad(300,300)}{\k20}i{\k20}chi{\k20}byo{\k15}u {\k34}dat{\k35}te {\k20}i{\k39}e {\k38}ni {\k19}ki{\k19}mi {\k19}ni {\k19}ze{\k29}tsu{\k38}bou {\k52}ga{\k20} {\k21}ni{\k38}ji{\k39}mu {\k42}no {\k146}wo{\k44}
+Dialogue: 0,0:23:32.68,0:23:34.52,EDr2,,0,0,0,,{\k30}{\fad(300,0)\t(1100,1800,1,\3c&HFFFFFF&\4c&HFFFFFF&)}{\k20}mi{\k37}taku{\k54}nai{\k43}
